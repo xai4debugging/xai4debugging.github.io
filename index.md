@@ -8,24 +8,31 @@ layout: default
 
 
 # **About**
+Recently, artificial intelligence (AI) has seen the explosion of deep learning (DL) models, which are able to reach super-human performance in several tasks, finding application in many domains. These performance improvements, however, come at a cost: DL models are uninterpretable ``black boxes'', where one feeds an input and obtains an output without understanding the motivations behind that prediction or decision. 
+The eXplainable AI (XAI) field tries to address such problems by proposing methods that can explain, at least partially, the behavior of these networks. Despite the growing literature on the topic, several open problems exist: these include the definition of interpretability, the definition of valid metrics, the study of users, and the study of the effectiveness of these solutions.
 
-Recently, the field of artificial intelligence has seen the explosion of deep learning models, who are able to reach super human performance, finding application in a lot of domains. The great performance comes at the cost of explainability: deep learning models are seen as black boxes where you feed an input and take an output without the possibility to retrieve the motivations behind that decision. 
-The field of explainable artificial intelligence is trying to address such a problem proposing methods that can explain, at least partially, the behavior of these networks. Despite the growing literature on the topic, there are a lot of open problems in the field yet: from the definition of interpretability to the definition of valid metrics, from the study of users to the study of effectiveness of these solutions. In this workshop we try to reduce the scope on a more specific case, fixing the target user of these systems as the developer or the researcher. This type of user typically has a good knowledge about the models, but it needs to validate, debug, and improve them.
+In this workshop, we narrow the XAI focus to the specific case in which developers or researchers need to debug their models and diagnose system behaviors. This type of user typically has substantial knowledge about the models themselves, but needs to validate, debug, and improve them.
+This is an important topic for several reasons and, currently, debugging is one of the dominant use cases for XAI techniques. For example, domains like healthcare and justice require that experts are able to validate DL models before deployment. Despite this, the development of novel deep learning model is dominated by trial-and-error phases guided by aggregated metrics and old benchmarks that tell us very little about the skills and utility of these models. Moreover, the debugging phase is a nightmare for practitioners too. 
 
-This is an important topic for several reasons. Domains like healthcare and justice require that experts are able to validate these models before deployment; development of novel deep learning model is dominated by trial-and-error phases guided by aggregated metrics and old benchmarks that tell us very little about the skills and utility of these models; and the debug phase is a nightmare for practitioners too. The workshop seeks to do a step forward in that direction collecting novel methods, and discussing challenges, issues and goals on the topic.
+Another community that is actively working on tracking and debugging machine learning models is the visual analytics one, which proposes systems that help users to understand and interact with machine learning models. In the last years, the usage of methodologies that explain DL models became central in these systems. As a result, the interaction between the XAI and visual analytics communities became more and more important. 
 
-The scope of the workshop can be placed between the field of artificial intelligence, typically focused on proposing novel methods for explaining deep neural networks, and the computer science field, more interested at tracking and debugging models, like in the visual analytics case. The workshop aims at bringing researchers and practitioners of both the fields, reinforcing their collaboration.
+The workshop aims at advancing the discourse by collecting novel methods and discussing challenges, issues, and goals around the usage of XAI approaches to debug and improve current deep learning models. In order to achieve this goal, the workshop aims at bringing researchers and practitioners from both fields, strengthening their collaboration. 
+
 
 ## **Topics**
 
 
 The topics include but are not limited to:
-- Interpretable/Explainable Deep Learning;
-- XAI evaluation: how can we assess the quality of explanations and their effectiveness for debugging purpose? (e.g. metrics, protocols, etc.);
+- Novel XAI methods;
+- Interpretable/Explainable deep learning models;
+- Applications and protocols that use current XAI methods to improve deep learning models;
+- XAI evaluation: how can we assess the quality of explanations and their effectiveness for debugging purpose? 
+- Visualization techiniques for debugguin Deep Learning models;
 - Debugging via interpretability: How can explainable artificial intelligence help us in debugging deep learning models?
 - Methods to identify and address sources and causes of failure (e.g.training data, regularization, objective functions, etc.);
 - Visual analytics systems for understanding and debugging deep learning  models;
-- Systematic analysis of limitations of current approaches.
+- Analysis of limitations of current approaches;
+- Position papers on the topic of the workshop.
 <hr>
 
 # **Call for Papers**
@@ -36,10 +43,10 @@ The call for papers includes three different tracks: regular track, mentorship t
 ## **Tracks**
 
 ### **Regular track:**
-Submissions to this track have to be novel contributions covering any topic listed above. We don't accept work that has been already published, that is concurrently submitted to other venues, or that is presented at the main NeurIPS conference, including as part of an invited talk. We solicit submission of full papers, position papers, and papers describing open problems. 
+Submissions to this track have to be novel contributions covering any topic listed above. We don't accept work that has been already published, that is concurrently submitted to other venues, or that is presented at the main NeurIPS conference, including as part of an invited talk. We solicit submission of full papers, position papers, and papers describing open problems on one of the topics listed above. 
 
 
-**We encourage the authors to link a repository containing the code to replicate the results inside the corpus of the paper.** While this is not a mandatory requirement, it will be positively taken in account during the reviewing process and the selection of the contributed talks. Submissions must follow the NEURIPS paper, its anonymized format (see XXXX), and they are limited to X pages, excluding references. They will undergo double-blind peer review.
+*We encourage the authors to link a repository containing the code to replicate the results inside the corpus of the paper.* While this is not a mandatory requirement, it will be positively taken in account during the reviewing process and the selection of the contributed talks. Submissions must follow the NEURIPS paper, its anonymized format (see <a href="https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles"> NeurIPS style files</a>), and they are limited to 8 pages, excluding references. They will undergo double-blind peer review.
 
 Accepted works will be presented as contributed talks or as posters in a poster session or listed on the workshop site as accepted contributions, depending on schedule constraints.
 It is mandatory that at least one of the authors will attend the workshop and present its work during the contributed talks and the poster session. 
@@ -172,11 +179,20 @@ TBD
 </div>
 
 ## **Advisory Board**
-Peter Stone
+Peter Stone (Sony AI) and Daniele Nardi (Sapienza University of Rome)
 
 ## **Program Committee**
-- Daniele Nardi
-- Marco Angelini
+- Daniele Nardi, Sapienza University of Rome 
+- Marco Angelini, Sapienza University of Rome 
+- Wojciech Samek, Fraunhofer HHI 
+- Francesca Rossi, IBM 
+- Jaesik Choi, KAIST 
+- Mark Keane, University College Dublin 
+- Ute Schmid, University of Bamberg 
+- Sameer Singh, University of California 
+- Giuseppe Santucci, Sapienza University of Rome 
+- Riccardo Guidotti, University of Pisa 
+- Rosina Weber, Drexel University 
 <hr>
 
 # **Contacts**

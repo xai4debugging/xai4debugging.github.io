@@ -93,6 +93,7 @@ TBD
 - <a href="http://juliusadebayo.com/">Julius Adebayo</a>
 - <a href="https://himalakkaraju.github.io/">Himabindu Lakkaraju</a>
 - <a href="http://shixialiu.com/">Shixia Liu</a>
+- <a href="https://www.aholzinger.at/">Andreas Holzinger</a>
 <hr>
 
 # **Organization**

@@ -90,11 +90,77 @@ TBD
 
 # **Invited Speakers**
 
-- <a href="http://juliusadebayo.com/">Julius Adebayo</a>
-- <a href="https://www.mit.edu/~jda/">Jacob Andreas</a>
+<div class="row" style="margin:0;border-style: groove; border-color:green; border-width: thin;">
+    <div class="photo_speaker">    
+      <a href="http://juliusadebayo.com/"><img src="images/adebayo.jpg" alt="Capobianco" style="margin-left: 10px;margin-top: 10px;margin-bottom:10px;  width:100px;  height:100px;  object-fit:cover;"></a>
+    </div>
+    <div class="speaker" style="margin:0;">
+          <div style="padding-top: 30px;
+  padding-bottom: 30px;">
+        Speaker: Julius Adebayo<br>
+        Talk: TBD
+        </div>
+    </div>
+
+</div>
+<div class="row" style="margin:0;border-style: groove; border-color:green; border-width: thin;">
+    <div class="photo_speaker">
+  <a href="https://www.mit.edu/~jda/">
+      <img src="images/andreas.jpg" alt="Capobianco" style="margin-left: 10px;margin-top: 10px;margin-bottom:10px;  width:100px;  height:100px;  object-fit:cover;">
+  </a>
+    </div>
+    <div class="speaker" style="margin:0;">
+          <div style="padding-top: 30px;
+  padding-bottom: 30px;">
+        Speaker: Jacob Andreas<br>
+        Talk: TBD      
+        </div>
+    </div>
+</div>
+<div class="row" style="margin:0;border-style: groove; border-color:green; border-width: thin;">
+    <div class="photo_speaker">
+  <a href="https://himalakkaraju.github.io/">
+      <img src="images/lakkaraju.jpg" alt="Capobianco" style="margin-left: 10px;margin-top: 10px;margin-bottom:10px;  width:100px;  height:100px;  object-fit:cover;">
+  </a>
+    </div>
+        <div class="speaker" style="margin:0;">
+      <div style="padding-top: 30px;
+  padding-bottom: 30px;">
+        Himabindu Lakkaraju<br>
+        Talk: TBD      
+      </div>
+    </div>
+</div>
+<div class="row" style="border-style: groove; border-color:green; border-width: thin;">
+    <div class="photo_speaker">   
+  <a href="https://www.aholzinger.at/">
+      <img src="images/holzinger.jpg" alt="Capobianco" style=" margin-left: 10px;margin-top: 10px;margin-bottom:10px; width:100px;  height:100px;  object-fit:cover;"></a>
+    </div>
+        <div class="speaker" style="margin:0;">
+      <div style="padding-top: 30px;
+  padding-bottom: 30px;">
+        Andreas Holzinger<br>
+        Talk: TBD      
+      </div>
+    </div>
+</div>
+<div class="row" style=" margin: 0;border-style: groove; border-color:green; border-width: thin;">
+    <div class="photo_speaker" style="margin:0;">
+  <a href="http://shixialiu.com/">
+      <img src="images/liu.jpg" alt="Capobianco" style="margin-left: 10px;margin-top: 10px;margin-bottom:10px;  width:100px;  height:100px;  object-fit:cover;"></a>
+    </div>
+        <div class="speaker">
+      <div style="padding-top: 30px;
+  padding-bottom: 30px;">
+       Shixia Liu<br>
+        Talk: TBD      
+      </div>
+    </div>
+</div>
+<!-- - <a href="https://www.mit.edu/~jda/">Jacob Andreas</a>
 - <a href="https://himalakkaraju.github.io/">Himabindu Lakkaraju</a>
 - <a href="https://www.aholzinger.at/">Andreas Holzinger</a>
-- <a href="http://shixialiu.com/">Shixia Liu</a>
+- <a href="http://shixialiu.com/">Shixia Liu</a> -->
 
 <hr>
 
@@ -107,12 +173,12 @@ TBD
   <div class="column">
     <div>
       <a href="http://robertocapobianco.com/">  
-      <img src="images/roberto.jpg" alt="Capobianco" style="border-radius: 50%;  width:200px;
+      <img src="images/roberto.jpg"  alt="Capobianco" style="border-radius: 50%;  width:200px;
   height:200px;
   object-fit:cover;">
       <div class="container">
         <h3>Roberto&nbsp;&nbsp;Capobianco</h3>
-        <p class="title">Sony AI</p>
+        <p class="title">Sony AI & Sapienza University</p>
       </div>
       </a>
     </div>

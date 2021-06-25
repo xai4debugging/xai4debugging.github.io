@@ -261,6 +261,7 @@ Peter Stone (Sony AI) and Daniele Nardi (Sapienza University of Rome)
 - Sameer Singh, University of California 
 - Rosina Weber, Drexel University 
 - Tongshuang Wu, University of Washington
+- Przemyslaw Biece, Warsaw University of Technology
 <hr>
 
 # **Contacts**

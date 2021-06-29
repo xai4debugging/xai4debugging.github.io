@@ -58,7 +58,7 @@ Notification Date:  11:59 PM CEST, Oct 20, 2021
 
 Camera-ready deadline: 11:59 PM CEST, Oct 27, 2021
 
-SlidesLive upload for speaker videos: Nov 07, 2021
+SlidesLive upload for speaker videos: 11:59 PM CEST, Nov 07, 2021
 
 
 ### **Mentorship track:**
@@ -67,18 +67,18 @@ The papers of this track have to be non-anonymous.
 None of the papers submitted to this track will be presented or included in the workshop schedule.
 
 <ins> Important Dates:</ins><br>
-Submission deadline: TBD
+Submission deadline: 11:59 PM CEST, Sep 30, 2021
 
 
 ### **A glimpse of the future track:**
 This special track aims at discovering and highlighting the most promising students in the field. The students will have the possibility to present their research plan to the community, describing the problems that they plan to address and possible research directions. Submissions for this track must include a research plan (max. 2 pages) and a cover letter from the current or future supervisor. This track is intended for first-year PhD students or prospective PhD students.
 
 <ins> Important Dates:</ins><br>
-Submission deadline: TBD 
+Submission deadline: 11:59 PM CEST, Sep 15, 2021
 
-Notification Date:  TBD
+Notification Date:  11:59 PM CEST, Oct 10, 2021
 
-SlidesLive upload for speaker videos: TBD
+SlidesLive upload for speaker videos: 11:59 PM CEST, Oct 30, 2021
 <hr>
 
 # **Schedule**

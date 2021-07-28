@@ -73,7 +73,7 @@ Submission deadline: 11:59 PM CEST, Sep 30, 2021
 ### **A glimpse of the future track:**
 This special track aims at discovering and highlighting the most promising students in the field. The students will have the possibility to present their research plan to the community, describing the problems that they plan to address and possible research directions. Submissions for this track must include a research plan (max. 2 pages) and a cover letter from the current or future supervisor. This track is intended for first-year PhD students or prospective PhD students.
 
-**Important Dates:**
+**Important Dates:** 
 
 Submission deadline: 11:59 PM CEST, Sep 15, 2021
 
@@ -93,7 +93,7 @@ TBD
 
 <div class="row" style="margin:0;border-style: groove; border-color:green; border-width: thin;">
     <div class="photo_speaker">    
-      <a href="http://juliusadebayo.com/"><img src="images/adebayo.jpg" alt="Capobianco" style="margin-left: 10px;margin-top: 10px;margin-bottom:10px;  width:100px;  height:100px;  object-fit:cover;"></a>
+      <a href="http://juliusadebayo.com/"><img src="images/adebayo.jpg" alt="Adebayo" style="margin-left: 10px;margin-top: 10px;margin-bottom:10px;  width:100px;  height:100px;  object-fit:cover;"></a>
     </div>
     <div class="speaker" style="margin:0;">
           <div style="padding-top: 30px;
@@ -107,7 +107,7 @@ TBD
 <div class="row" style="margin:0;border-style: groove; border-color:green; border-width: thin;">
     <div class="photo_speaker">
   <a href="https://www.mit.edu/~jda/">
-      <img src="images/andreas.jpg" alt="Capobianco" style="margin-left: 10px;margin-top: 10px;margin-bottom:10px;  width:100px;  height:100px;  object-fit:cover;">
+      <img src="images/andreas.jpg" alt="Andreas" style="margin-left: 10px;margin-top: 10px;margin-bottom:10px;  width:100px;  height:100px;  object-fit:cover;">
   </a>
     </div>
     <div class="speaker" style="margin:0;">
@@ -118,10 +118,23 @@ TBD
         </div>
     </div>
 </div>
+<div class="row" style="border-style: groove; border-color:green; border-width: thin;">
+    <div class="photo_speaker">   
+  <a href="https://www.aholzinger.at/">
+      <img src="images/holzinger.jpg" alt="Holzinger" style=" margin-left: 10px;margin-top: 10px;margin-bottom:10px; width:100px;  height:100px;  object-fit:cover;"></a>
+    </div>
+        <div class="speaker" style="margin:0;">
+      <div style="padding-top: 30px;
+  padding-bottom: 30px;">
+        Andreas Holzinger<br>
+        Talk: TBD      
+      </div>
+    </div>
+</div>
 <div class="row" style="margin:0;border-style: groove; border-color:green; border-width: thin;">
     <div class="photo_speaker">
   <a href="https://himalakkaraju.github.io/">
-      <img src="images/lakkaraju.jpg" alt="Capobianco" style="margin-left: 10px;margin-top: 10px;margin-bottom:10px;  width:100px;  height:100px;  object-fit:cover;">
+      <img src="images/lakkaraju.jpg" alt="Lakkaraju" style="margin-left: 10px;margin-top: 10px;margin-bottom:10px;  width:100px;  height:100px;  object-fit:cover;">
   </a>
     </div>
         <div class="speaker" style="margin:0;">
@@ -132,23 +145,11 @@ TBD
       </div>
     </div>
 </div>
-<div class="row" style="border-style: groove; border-color:green; border-width: thin;">
-    <div class="photo_speaker">   
-  <a href="https://www.aholzinger.at/">
-      <img src="images/holzinger.jpg" alt="Capobianco" style=" margin-left: 10px;margin-top: 10px;margin-bottom:10px; width:100px;  height:100px;  object-fit:cover;"></a>
-    </div>
-        <div class="speaker" style="margin:0;">
-      <div style="padding-top: 30px;
-  padding-bottom: 30px;">
-        Andreas Holzinger<br>
-        Talk: TBD      
-      </div>
-    </div>
-</div>
+
 <div class="row" style=" margin: 0;border-style: groove; border-color:green; border-width: thin;">
     <div class="photo_speaker" style="margin:0;">
   <a href="http://shixialiu.com/">
-      <img src="images/liu.jpg" alt="Capobianco" style="margin-left: 10px;margin-top: 10px;margin-bottom:10px;  width:100px;  height:100px;  object-fit:cover;"></a>
+      <img src="images/liu.jpg" alt="Liu" style="margin-left: 10px;margin-top: 10px;margin-bottom:10px;  width:100px;  height:100px;  object-fit:cover;"></a>
     </div>
         <div class="speaker">
       <div style="padding-top: 30px;
@@ -230,7 +231,7 @@ TBD
   <div class="column">
     <div>
     <a href="https://wensun.github.io/">
-      <img src="images/wensun.png" alt="Gilpin" style="border-radius: 50%;width:200px;
+      <img src="images/wensun.png" alt="Sun" style="border-radius: 50%;width:200px;
   height:200px;
   object-fit:cover;">
       <div class="container">

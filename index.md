@@ -50,7 +50,7 @@ It is mandatory that at least one of the authors will attend the workshop and pr
 We are planning to include an additional virtual channel, like Slack, where each accepted paper will have a dedicated section where attendance and authors can discuss. We strongly encourage authors to be available on their section before, during, and shortly after the workshop.
 
 
-<ins> Important Dates:</ins><br>
+**Important Dates:**
 Submission deadline: 11:59 PM CEST, Sep 15, 2021
 
 Notification Date:  11:59 PM CEST, Oct 20, 2021
@@ -65,14 +65,14 @@ The mentorship track pairs authors with experienced researchers who have committ
 The papers of this track have to be non-anonymous.
 None of the papers submitted to this track will be presented or included in the workshop schedule.
 
-<ins> Important Dates:</ins><br>
+**Important Dates:**<br>
 Submission deadline: 11:59 PM CEST, Sep 30, 2021
 
 
 ### **A glimpse of the future track:**
 This special track aims at discovering and highlighting the most promising students in the field. The students will have the possibility to present their research plan to the community, describing the problems that they plan to address and possible research directions. Submissions for this track must include a research plan (max. 2 pages) and a cover letter from the current or future supervisor. This track is intended for first-year PhD students or prospective PhD students.
 
-<ins> Important Dates:</ins><br>
+**Important Dates:**<br>
 Submission deadline: 11:59 PM CEST, Sep 15, 2021
 
 Notification Date:  11:59 PM CEST, Oct 10, 2021

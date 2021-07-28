@@ -8,24 +8,23 @@ layout: default
 
 
 # **About**
-Recently, artificial intelligence (AI) has seen the explosion of deep learning (DL) models, which are able to reach super-human performance in several tasks, finding application in many domains. These performance improvements, however, come at a cost: DL models are uninterpretable ``black boxes’’, where one feeds an input and obtains an output without understanding the motivations behind that prediction or decision. The eXplainable AI (XAI) field tries to address such problems by proposing methods that can explain, at least partially, the behavior of these networks. Despite the growing literature on the topic, several open problems exist: these include the definition of interpretability, the definition of valid metrics, the study of users, and the study of the effectiveness of these solutions.
+Recently, artificial intelligence (AI) has seen the explosion of deep learning (DL) models, which are able to reach super-human performance in several tasks, finding application in many domains. These performance improvements, however, come at a cost: DL models are uninterpretable black boxes, where one feeds an input and obtains an output without understanding the motivations behind that prediction or decision. The eXplainable AI (XAI) field tries to address such problems by proposing methods that can explain, at least partially, the behavior of these networks. Despite the growing literature on the topic, several open problems exist: these include the definition of interpretability, the definition of valid metrics, the study of users, and the study of the effectiveness of these solutions.
 
-In this workshop, we narrow the XAI focus to the specific case in which developers or researchers need to debug their models and diagnose system behaviors. This type of user typically has substantial knowledge about the models themselves but needs to validate, debug, and improve them. This is an important topic for several reasons and, currently, debugging is one of the dominant use cases for XAI techniques. For example, domains like healthcare and justice require that experts are able to validate DL models before deployment. Despite this, the development of novel deep learning models is dominated by trial-and-error phases guided by aggregated metrics and old benchmarks that tell us very little about the skills and utility of these models. Moreover, the debugging phase is a nightmare for practitioners too.
+In this workshop, we narrow the XAI focus to the specific case in which developers or researchers need to debug their models and diagnose system behaviors. Therefore we start from the assumption that this type of user typically has substantial knowledge about the models themselves but needs to validate, debug, and improve them. Their goal is the development of novel deep learning models, but currently the process is dominated by trial-and-error phases guided by aggregated metrics and old benchmarks that tell us very little about the skills and utility of these models. Moreover, the debugging phase is a nightmare for practitioners too. For all these reasons, debugging is emerging as one of the dominant use cases for XAI techniques.
 
-Another community that is actively working on tracking and debugging machine learning models is the visual analytics one, which proposes systems that help users to understand and interact with machine learning models. In the last years, the usage of methodologies that explain DL models became central in these systems. As a result, the interaction between the XAI and visual analytics communities became more and more important.
+In addition to the community of eXplainable Artificial Intelligence, another group of researchers that are actively working on tracking and debugging machine learning models are the ones of the visual analytics community. Visual analytics systems help users to understand and interact with machine learning models providing visualizations and systems that facilitate the exploration, analysis, interaction and understanding of machine learning models. In the last years, the usage of methodologies that explain DL models became central in these systems. As a result, the interaction between the XAI and visual analytics communities is becoming more and more important.
 
 The workshop aims at advancing the discourse by collecting novel methods and discussing challenges, issues, and goals around the usage of XAI approaches to debug and improve current deep learning models. In order to achieve this goal, the workshop aims at bringing researchers and practitioners from both fields, strengthening their collaboration.
 
 
 ## **Topics**
 
-
-The topics include but are not limited to:
-- Novel XAI methods;
+The topics include <u>but are not limited to</a>:
+- Novel XAI methods (*post-hoc, ante-hoc*,etc.);
 - Interpretable/Explainable deep learning models;
-- Applications and protocols that use current XAI methods to improve deep learning models;
+- Applications and protocols that use current XAI methods to improve and/or debug deep learning models;
 - XAI evaluation: how can we assess the quality of explanations and their effectiveness for debugging purpose? 
-- Visualization techiniques for debugguin Deep Learning models;
+- Visualization techiniques for debugging Deep Learning models;
 - Debugging via interpretability: How can explainable artificial intelligence help us in debugging deep learning models?
 - Methods to identify and address sources and causes of failure (e.g.training data, regularization, objective functions, etc.);
 - Visual analytics systems for understanding and debugging deep learning  models;
@@ -35,7 +34,7 @@ The topics include but are not limited to:
 
 # **Call for Papers**
 
-The call for papers includes three different tracks: regular track, mentorship track a glimpse of the future track.  The first one is the traditional track for presenting novel contributions. The second one is directed to young researchers and aims to pair a mentor and a mentee with the goal of polishing early-submissions. The last one is intended for first-year PhD student and MSc student working on the topic, giving them the possibility to introduce themselves and their research proposal to the research community.
+The call for papers includes three different tracks: *regular* track, *mentorship* track, and *a glimpse of the future* track.  The first one is the traditional track for presenting novel contributions. The second one is directed to young researchers and aims to pair a mentor and a mentee with the goal of polishing early-submissions. The last one is intended for first-year PhD student and MSc student working on the topic, giving them the possibility to introduce themselves and their research proposal to the research community.
 
 
 ## **Tracks**
@@ -44,7 +43,7 @@ The call for papers includes three different tracks: regular track, mentorship t
 Submissions to this track have to be novel contributions covering any topic listed above. We don't accept work that has been already published, that is concurrently submitted to other venues, or that is presented at the main NeurIPS conference, including as part of an invited talk. We solicit submission of full papers, position papers, and papers describing open problems on one of the topics listed above. 
 
 
-*We encourage the authors to link a repository containing the code to replicate the results inside the corpus of the paper.* While this is not a mandatory requirement, it will be positively taken in account during the reviewing process and the selection of the contributed talks. Submissions must follow the NEURIPS paper, its anonymized format (see <a href="https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles"> NeurIPS style files</a>), and they are limited to maximum 8 pages, excluding references. They will undergo double-blind peer review.
+*We encourage the authors to link a repository containing the code to replicate the results inside the corpus of the paper.* While this is not a mandatory requirement, it will be positively taken in account during the reviewing process and the selection of the contributed talks. Submissions must follow the NEURIPS paper, its anonymized format (see <a href="https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles"> NeurIPS style files</a>), and they are limited to maximum 8 pages, excluding references. Shorter papers are welcome. They will undergo double-blind peer review.
 
 Accepted works will be presented as contributed talks or as posters in a poster session or listed on the workshop site as accepted contributions, depending on schedule constraints.
 It is mandatory that at least one of the authors will attend the workshop and present its work during the contributed talks and the poster session. 
@@ -183,7 +182,19 @@ TBD
       </a>
     </div>
   </div>
-
+  <div class="column">
+    <div>
+      <a href="https://llama.gs/personae/alex/">
+      <img src="images/fledman.jpeg" alt="Fledman" style="border-radius: 50%;width:200px;
+  height:200px;
+  object-fit:cover;">
+      <div class="container">
+        <h3>Alexander Feldman</h3>
+        <p class="title">PARC</p>
+      </div>
+      </a>
+    </div>
+  </div>
   <div class="column">
     <div>
     <a href="http://people.csail.mit.edu/lgilpin/">
@@ -243,6 +254,8 @@ TBD
       </a>
     </div>
   </div>
+
+
 </div>
 
 ## **Advisory Board**

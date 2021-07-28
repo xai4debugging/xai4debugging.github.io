@@ -23,18 +23,18 @@ The topics include <u>but are not limited to</u>:
 - Novel XAI methods (*post-hoc, ante-hoc*, etc.);
 - Interpretable/Explainable deep learning models;
 - Applications and protocols that use current XAI methods to improve and/or debug deep learning models;
-- XAI evaluation: how can we assess the quality of explanations and their effectiveness for debugging purpose? 
-- Visualization techiniques for debugging Deep Learning models;
+- XAI evaluation: how can we assess the quality of explanations and their effectiveness for debugging purposes? 
+- Visualization techniques for debugging Deep Learning models;
 - Debugging via interpretability: How can explainable artificial intelligence help us in debugging deep learning models?
 - Methods to identify and address sources and causes of failure (e.g.training data, regularization, objective functions, etc.);
-- Visual analytics systems for understanding and debugging deep learning  models;
+- Visual analytics systems for understanding and debugging deep learning models;
 - Analysis of limitations of current approaches;
 - Position papers on the topic of the workshop.
 <hr>
 
 # **Call for Papers**
 
-The call for papers includes three different tracks: *regular* track, *mentorship* track, and *a glimpse of the future* track.  The first one is the traditional track for presenting novel contributions. The second one is directed to young researchers and aims to pair a mentor and a mentee with the goal of polishing early-submissions. The last one is intended for first-year PhD student and MSc student working on the topic, giving them the possibility to introduce themselves and their research proposal to the research community.
+The call for papers includes three different tracks: *regular* track, *mentorship* track, and *a glimpse of the future* track.  The first one is the traditional track for presenting novel contributions. The second one is directed to young researchers and aims to pair a mentor and a mentee with the goal of polishing early-submissions. The last one is intended for first-year PhD students and MSc students working on the topic, giving them the possibility to introduce themselves and their research proposal to the research community.
 
 
 ## **Tracks**
@@ -43,7 +43,7 @@ The call for papers includes three different tracks: *regular* track, *mentorshi
 Submissions to this track have to be novel contributions covering any topic listed above. We don't accept work that has been already published, that is concurrently submitted to other venues, or that is presented at the main NeurIPS conference, including as part of an invited talk. We solicit submission of full papers, position papers, and papers describing open problems on one of the topics listed above. 
 
 
-*We encourage the authors to link a repository containing the code to replicate the results inside the corpus of the paper.* While this is not a mandatory requirement, it will be positively taken in account during the reviewing process and the selection of the contributed talks. Submissions must follow the NEURIPS paper, its anonymized format (see <a href="https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles"> NeurIPS style files</a>), and they are limited to maximum 8 pages, excluding references. Shorter papers are welcome. They will undergo double-blind peer review.
+*We encourage the authors to link a repository containing the code to replicate the results inside the corpus of the paper.* While this is not a mandatory requirement, it will be positively taken in account during the reviewing process and the selection of the contributed talks. Submissions must follow the NEURIPS paper, its anonymized format (see <a href="https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles"> NeurIPS style files</a>), and they are limited to a maximum of 8 pages, excluding references. Shorter papers are welcome. They will undergo double-blind peer review.
 
 Accepted works will be presented as contributed talks or as posters in a poster session or listed on the workshop site as accepted contributions, depending on schedule constraints.
 It is mandatory that at least one of the authors will attend the workshop and present its work during the contributed talks and the poster session. 

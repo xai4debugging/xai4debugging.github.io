@@ -34,7 +34,7 @@ The topics include <u>but are not limited to</u>:
 
 # **Call for Papers**
 
-The call for papers includes three different tracks: *regular* track, *mentorship* track, and *a glimpse of the future* track.  The first one is the traditional track for presenting novel contributions. The second one is directed to young researchers and aims to pair a mentor and a mentee with the goal of polishing early-submissions. The last one is intended for first-year PhD students and MSc students working on the topic, giving them the possibility to introduce themselves and their research proposal to the research community.
+The call for papers includes three different tracks: *regular*, *mentorship*, and *a glimpse of the future* track.  The first one is the traditional track for presenting novel contributions. The second one is directed to young researchers and aims to pair a mentor and a mentee with the goal of polishing early-submissions. The last one is intended for first-year PhD students and MSc students working on the topic, giving them the possibility to introduce themselves and their research proposal to the research community.
 
 
 ## **Tracks**
@@ -43,11 +43,11 @@ The call for papers includes three different tracks: *regular* track, *mentorshi
 Submissions to this track have to be novel contributions covering any topic listed above. We don't accept work that has been already published, that is concurrently submitted to other venues, or that is presented at the main NeurIPS conference, including as part of an invited talk. We solicit submission of full papers, position papers, and papers describing open problems on one of the topics listed above. 
 
 
-*We encourage the authors to link a repository containing the code to replicate the results inside the corpus of the paper.* While this is not a mandatory requirement, it will be positively taken in account during the reviewing process and the selection of the contributed talks. Submissions must follow the NEURIPS paper, its anonymized format (see <a href="https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles"> NeurIPS style files</a>), and they are limited to a maximum of 8 pages, excluding references. Shorter papers are welcome. They will undergo double-blind peer review.
+*We encourage the authors to link a repository containing the code to replicate the results inside the corpus of the paper.* While this is not a mandatory requirement, it will be positively taken in account during the reviewing process and the selection of the contributed talks. Submissions must follow the NeurIPS anonymized paper format (see <a href="https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles"> NeurIPS style files</a>), and they are limited to a maximum of 8 pages, excluding references. Shorter papers are welcome. They will undergo double-blind peer review.
 
 Accepted works will be presented as contributed talks or as posters in a poster session or listed on the workshop site as accepted contributions, depending on schedule constraints.
 It is mandatory that at least one of the authors will attend the workshop and present its work during the contributed talks and the poster session. 
-We are planning to include an additional virtual channel, like Slack, where each accepted paper will have a dedicated section where attendance and authors can discuss. We strongly encourage authors to be available on their section before, during, and shortly after the workshop.
+We are planning to include an additional virtual channel, like Slack, where each accepted paper will have a dedicated section for attendance and authors to discuss. We strongly encourage authors to be available on their section before, during, and shortly after the workshop.
 
 
 **Important Dates:**
@@ -62,7 +62,7 @@ SlidesLive upload for speaker videos: 11:59 PM CEST, Nov 07, 2021
 
 
 ### **Mentorship track:**
-The mentorship track pairs authors with experienced researchers who have committed to providing meaningful feedback to help polish papers for general submission. This program helps authors to get support and fast feedback from the research community facilitates a private dialogue between the mentee and mentor. 
+The mentorship track pairs authors with experienced researchers who have committed to providing meaningful feedback to help polish papers for general submission. This program helps authors to get support and fast feedback from the research community, by facilitating a private dialogue between the mentee and mentor. 
 The papers of this track have to be non-anonymous.
 None of the papers submitted to this track will be presented or included in the workshop schedule.
 

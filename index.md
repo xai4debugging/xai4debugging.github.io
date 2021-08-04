@@ -279,7 +279,7 @@ Peter Stone (Sony AI) and Daniele Nardi (Sapienza University of Rome)
 <hr>
 
 # **Contacts**
-If you have any question feel free to join our <a href="https://join.slack.com/t/xai4debugging-4ua7968/shared_invite/zt-u394toc1-xiAPFBpt7bQPcVxlgqHm3w">slack channel</a> or contact us in any of the following email addresses:
+If you have any questions feel free to join our <a href="https://join.slack.com/t/xai4debugging-4ua7968/shared_invite/zt-u394toc1-xiAPFBpt7bQPcVxlgqHm3w">slack channel</a> or contact us at any of the following email addresses:
 - larosa AT diag.uniroma1.it
 - capobianco AT diag.uniroma1.it
 - afeldman AT parc.com

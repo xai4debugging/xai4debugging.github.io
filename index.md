@@ -53,7 +53,7 @@ Submission opens: 11:59 PM CEST, Aug 15, 2021 | <a href="https://openreview.net/
 
 Submission deadline: 11:59 PM CEST, Sep 15, 2021
 
-Notification Date:  11:59 PM CEST, Oct 10, 2021
+Notification date:  11:59 PM CEST, Oct 10, 2021
 
 Camera-ready deadline: 11:59 PM CEST, Oct 20, 2021
 

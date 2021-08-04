@@ -8,14 +8,11 @@ layout: default
 
 
 # **About**
-Recently, artificial intelligence (AI) has seen the explosion of deep learning (DL) models, which are able to reach super-human performance in several tasks, finding application in many domains. These performance improvements, however, come at a cost: DL models are uninterpretable black boxes, where one feeds an input and obtains an output without understanding the motivations behind that prediction or decision. The eXplainable AI (XAI) field tries to address such problems by proposing methods that can explain, at least partially, the behavior of these networks. Despite the growing literature on the topic, several open problems exist: these include the definition of interpretability, the definition of valid metrics, the study of users, and the study of the effectiveness of these solutions.
+Recently, artificial intelligence has seen the explosion of deep learning models, which are able to reach super-human performance in several tasks, finding application in many domains. These performance improvements, however, come at a cost: DL models are uninterpretable black boxes, where one feeds an input and obtains an output without understanding the motivations behind that prediction or decision. 
 
-In this workshop, we narrow the XAI focus to the specific case in which developers or researchers need to debug their models and diagnose system behaviors. Therefore we start from the assumption that this type of user typically has substantial knowledge about the models themselves but needs to validate, debug, and improve them. Their goal is the development of novel deep learning models, but currently the process is dominated by trial-and-error phases guided by aggregated metrics and old benchmarks that tell us very little about the skills and utility of these models. Moreover, the debugging phase is a nightmare for practitioners too. For all these reasons, debugging is emerging as one of the dominant use cases for XAI techniques.
+To address this problem, two research areas are particularly active: the eXplainable AI (XAI) field and the visual analytics community. The eXplainable XAI field tries to address such problems by proposing algorithmic methods that can explain, at least partially, the behavior of these networks. Their works also try to define the limits of interpretability, the definition of valid metrics, the study of users, and the study of the effectiveness of these solutions. Conversely, visual analytics systems target users helping them to understand and interact with machine learning models providing visualizations and systems that facilitate the exploration, analysis, interaction, and understanding of machine learning models. In the last few years, the usage of methodologies that explain deep learning models has become central in these systems. As a result, the interaction between the XAI and visual analytics communities is becoming more and more important.
 
-In addition to the community of eXplainable Artificial Intelligence, another group of researchers that are actively working on tracking and debugging machine learning models are the ones of the visual analytics community. Visual analytics systems help users to understand and interact with machine learning models providing visualizations and systems that facilitate the exploration, analysis, interaction and understanding of machine learning models. In the last years, the usage of methodologies that explain DL models became central in these systems. As a result, the interaction between the XAI and visual analytics communities is becoming more and more important.
-
-The workshop aims at advancing the discourse by collecting novel methods and discussing challenges, issues, and goals around the usage of XAI approaches to debug and improve current deep learning models. In order to achieve this goal, the workshop aims at bringing researchers and practitioners from both fields, strengthening their collaboration.
-
+The workshop aims at advancing the discourse by collecting novel methods and discussing challenges, issues, and goals around the usage of XAI approaches to debug and improve current deep learning models. To achieve this goal, the workshop aims at bringing researchers and practitioners from both fields, strengthening their collaboration. In particular, we narrow the XAI focus to the specific case in which developers or researchers need to debug their models and diagnose system behaviors. Therefore we start from the assumption that this type of user typically has substantial knowledge about the models themselves but needs to validate, debug, and improve them.
 
 ## **Topics**
 
@@ -45,6 +42,8 @@ Submissions to this track have to be novel contributions covering any topic list
 
 *We encourage the authors to link a repository containing the code to replicate the results inside the corpus of the paper.* While this is not a mandatory requirement, it will be positively taken in account during the reviewing process and the selection of the contributed talks. Submissions must follow the NeurIPS anonymized paper format (see <a href="https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles"> NeurIPS style files</a>), and they are limited to a maximum of 8 pages, excluding references. Shorter papers are welcome. They will undergo double-blind peer review.
 
+**At the end of your paper submission, please indicate whether you would like an extended version of the submission to be considered for publication in a journal special issue**. According to the feedback from authors, we will further decide whether to publish selected high-quality papers in proceedings or a journal special issue. Reviewers will nominate papers among them with exemplary scientific rigor for publication.
+
 Accepted works will be presented as contributed talks or as posters in a poster session or listed on the workshop site as accepted contributions, depending on schedule constraints.
 It is mandatory that at least one of the authors will attend the workshop and present its work during the contributed talks and the poster session. 
 We are planning to include an additional virtual channel, like Slack, where each accepted paper will have a dedicated section for attendance and authors to discuss. We strongly encourage authors to be available on their section before, during, and shortly after the workshop.
@@ -54,11 +53,11 @@ We are planning to include an additional virtual channel, like Slack, where each
 
 Submission deadline: 11:59 PM CEST, Sep 15, 2021
 
-Notification Date:  11:59 PM CEST, Oct 20, 2021
+Notification Date:  11:59 PM CEST, Oct 10, 2021
 
-Camera-ready deadline: 11:59 PM CEST, Oct 27, 2021
+Camera-ready deadline: 11:59 PM CEST, Oct 20, 2021
 
-SlidesLive upload for speaker videos: 11:59 PM CEST, Nov 07, 2021
+SlidesLive upload for speaker videos: 11:59 PM CEST, Oct 25, 2021
 
 
 ### **Mentorship track:**
@@ -75,11 +74,11 @@ This special track aims at discovering and highlighting the most promising stude
 
 **Important Dates:** 
 
-Submission deadline: 11:59 PM CEST, Sep 15, 2021
+Submission deadline: 11:59 PM CEST, Sep 20, 2021
 
 Notification Date:  11:59 PM CEST, Oct 10, 2021
 
-SlidesLive upload for speaker videos: 11:59 PM CEST, Oct 30, 2021
+SlidesLive upload for speaker videos: 11:59 PM CEST, Oct 25, 2021
 <hr>
 
 # **Schedule**
@@ -279,5 +278,10 @@ Peter Stone (Sony AI) and Daniele Nardi (Sapienza University of Rome)
 <hr>
 
 # **Contacts**
+For any question about the workshop please contact us in any of the following email addresses:
+- larosa AT diag.uniroma1.it
+- capobianco AT diag.uniroma1.it
+- afeldman AT parc.com
+- lgilpin AT ucsc.edu
 
 <hr>

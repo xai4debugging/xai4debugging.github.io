@@ -39,7 +39,7 @@ The call for papers includes three different tracks: *regular*, *mentorship*, an
 ### **Regular track:**
 Submissions to this track have to be novel contributions covering any topic listed above. We don't accept work that has been already published, that is concurrently submitted to other venues, or that is presented at the main NeurIPS conference, including as part of an invited talk. We solicit submission of full papers, position papers, and papers describing open problems on one of the topics listed above. Papers must be submitted through the <a href="https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/XAI4Debugging">Open Review submission system</a>.
 
-*We encourage the authors to link a repository containing the code to replicate the results inside the corpus of the paper.* While this is not a mandatory requirement, it will be positively taken in account during the reviewing process and the selection of the contributed talks. Submissions must follow the NeurIPS anonymized paper format (see <a href="https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles"> NeurIPS style files</a>), and they are limited to a maximum of 8 pages, excluding references. Shorter papers are welcome. They will undergo double-blind peer review.
+*We encourage the authors to link a repository containing the code to replicate the results inside the corpus of the paper.* While this is not a mandatory requirement, it will be positively taken in account during the reviewing process and the selection of the contributed talks. Submissions must follow the NeurIPS anonymized paper format (see <a href="https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles"> NeurIPS style files</a>), and they are limited to a maximum of 9 pages, excluding references. Shorter papers are welcome. They will undergo double-blind peer review.
 
 **At the end of your paper submission, please indicate whether you would like an extended version of the submission to be considered for publication in a journal special issue**. According to the feedback from authors, we will further decide whether to publish selected high-quality papers in proceedings or a journal special issue. Reviewers will nominate papers among them with exemplary scientific rigor for publication.
 
@@ -63,15 +63,15 @@ SlidesLive upload for speaker videos: 11:59 PM CEST, Oct 25, 2021
 
 ### **Mentorship track:**
 The mentorship track pairs authors with experienced researchers who have committed to providing meaningful feedback to help polish papers for general submission. This program helps authors to get support and fast feedback from the research community, by facilitating a private dialogue between the mentee and mentor. 
-The papers of this track have to be non-anonymous.
-None of the papers submitted to this track will be presented or included in the workshop schedule.
+The papers of this track have to be non-anonymous, template-free.
+Note that the goal of this track is to receive fast feedback about the structure of the paper and to polish it. It is not intended for deep review. None of the papers submitted to this track will be presented or included in the workshop schedule.
 
 **Important Dates:**
 
 Submission deadline: 11:59 PM CEST, Sep 30, 2021
 
 ### **A glimpse of the future track:**
-This special track aims at discovering and highlighting the most promising students in the field. The students will have the possibility to present their research plan to the community, describing the problems that they plan to address and possible research directions. Submissions for this track must include a research plan (max. 2 pages) and a cover letter from the current or future supervisor. This track is intended for first-year PhD students or prospective PhD students.
+This special track aims at discovering and highlighting the most promising students in the field. The students will have the possibility to present their research plan to the community, describing the problems that they plan to address and possible research directions. Submissions for this track must include a research plan (max. 2 pages) and a cover letter from the current or future supervisor. The plan should briefly highlight the problem that the researcher will try to attack, the current methodologies and the expected outcome of its research agenda. This track is intended for first-year PhD students or prospective PhD students.
 
 **Important Dates:** 
 

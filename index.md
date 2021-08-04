@@ -68,7 +68,7 @@ Note that the goal of this track is to receive fast feedback about the structure
 
 **Important Dates:**
 
-Submission deadline: 11:59 PM CEST, Sep 30, 2021
+Submission deadline: 11:59 PM CEST, Sep 20, 2021
 
 ### **A glimpse of the future track:**
 This special track aims at discovering and highlighting the most promising students in the field. The students will have the possibility to present their research plan to the community, describing the problems that they plan to address and possible research directions. Submissions for this track must include a research plan (max. 2 pages) and a cover letter from the current or future supervisor. The plan should briefly highlight the problem that the researcher will try to attack, the current methodologies and the expected outcome of its research agenda. This track is intended for first-year PhD students or prospective PhD students.

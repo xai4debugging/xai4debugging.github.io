@@ -50,7 +50,7 @@ We are planning to include an additional virtual channel, like Slack, where each
 
 **Important Dates:**
 
-Submission system opens: 11:59 PM CEST, Aug 15, 2021 | <a href="https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/XAI4Debugging">LINK</a>
+Submission system opens: 11:59 PM CEST, Aug 15, 2021 <a href="https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/XAI4Debugging">LINK</a>
 
 Submission deadline: 11:59 PM CEST, Sep 15, 2021
 

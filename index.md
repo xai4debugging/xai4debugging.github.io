@@ -271,7 +271,7 @@ Peter Stone (Sony AI) and Daniele Nardi (Sapienza University of Rome)
 - Jaesik Choi, KAIST 
 - Marco Angelini, Sapienza University of Rome 
 - Mark Keane, University College Dublin 
-- Przemyslaw Biece, Warsaw University of Technology
+- Przemyslaw Biecek, Warsaw University of Technology
 - Riccardo Guidotti, University of Pisa
 - Rosina Weber, Drexel University  
 - Sameer Singh, University of California 

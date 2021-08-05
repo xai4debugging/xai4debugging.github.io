@@ -264,6 +264,7 @@ Peter Stone (Sony AI) and Daniele Nardi (Sapienza University of Rome)
 
 ## **Program Committee**
 - Amirata Ghorbani, Stanford University
+- Bilal Alsallakh, Bosh
 - Daniele Nardi, Sapienza University of Rome
 - Francesca Rossi, IBM 
 - Giuseppe Santucci, Sapienza University of Rome 

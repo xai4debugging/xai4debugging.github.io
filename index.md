@@ -263,19 +263,21 @@ TBD
 Peter Stone (Sony AI) and Daniele Nardi (Sapienza University of Rome)
 
 ## **Program Committee**
-- Marco Angelini, Sapienza University of Rome  
-- Jaesik Choi, KAIST 
-- Riccardo Guidotti, University of Pisa 
-- Mark Keane, University College Dublin 
-- Daniele Nardi, Sapienza University of Rome 
+- Amirata Ghorbani, Stanford University
+- Daniele Nardi, Sapienza University of Rome
 - Francesca Rossi, IBM 
-- Wojciech Samek, Fraunhofer HHI 
 - Giuseppe Santucci, Sapienza University of Rome 
-- Ute Schmid, University of Bamberg 
-- Sameer Singh, University of California 
-- Rosina Weber, Drexel University 
-- Tongshuang Wu, University of Washington
+- Jaesik Choi, KAIST 
+- Marco Angelini, Sapienza University of Rome 
+- Mark Keane, University College Dublin 
 - Przemyslaw Biece, Warsaw University of Technology
+- Riccardo Guidotti, University of Pisa
+- Rosina Weber, Drexel University  
+- Sameer Singh, University of California 
+- Tongshuang Wu, University of Washington
+- Ute Schmid, University of Bamberg 
+- Wojciech Samek, Fraunhofer HHI 
+
 <hr>
 
 # **Contacts**

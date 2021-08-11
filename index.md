@@ -264,6 +264,7 @@ TBD
 Peter Stone (Sony AI) and Daniele Nardi (Sapienza University of Rome)
 
 ## **Program Committee**
+- Adam Perer, Carnegie Mellon University
 - Amirata Ghorbani, Stanford University
 - Bilal Alsallakh, Facebook
 - Chirag Agarwal, Harvard University
@@ -280,6 +281,7 @@ Peter Stone (Sony AI) and Daniele Nardi (Sapienza University of Rome)
 - Sameer Singh, University of California 
 - Sijia Liu, Michigan State University
 - Tongshuang Wu, University of Washington
+- Umang Bhatt, University of Cambridge
 - Ute Schmid, University of Bamberg 
 - Wojciech Samek, Fraunhofer HHI 
 

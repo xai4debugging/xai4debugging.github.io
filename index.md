@@ -269,9 +269,11 @@ Peter Stone (Sony AI) and Daniele Nardi (Sapienza University of Rome)
 - Bilal Alsallakh, Facebook
 - Chirag Agarwal, Harvard University
 - Daniele Nardi, Sapienza University of Rome
+- Eoin M. Kenny,  Insight Centre for Data Analytics
 - Francesca Rossi, IBM 
 - Giuseppe Santucci, Sapienza University of Rome 
 - Gregory Plumb, Carnegie Mellon University
+- Hanjie Chen, University of Virginia
 - Jaesik Choi, KAIST 
 - Marco Angelini, Sapienza University of Rome 
 - Mark Keane, University College Dublin 

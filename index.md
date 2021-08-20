@@ -265,17 +265,25 @@ Peter Stone (Sony AI) and Daniele Nardi (Sapienza University of Rome)
 
 ## **Program Committee**
 - Adam Perer, Carnegie Mellon University
+- Ana Lucic, University of Amsterdam
 - Amirata Ghorbani, Stanford University
+- Arjun Akula, University of California
+- Avishek Anand, Leibniz University
 - Bilal Alsallakh, Facebook
 - Chirag Agarwal, Harvard University
 - Daniele Nardi, Sapienza University of Rome
 - Eoin M. Kenny,  Insight Centre for Data Analytics
+- Eunji Kim, Seoul National University
 - Francesca Rossi, IBM 
 - Giuseppe Santucci, Sapienza University of Rome 
 - Gregory Plumb, Carnegie Mellon University
 - Hanjie Chen, University of Virginia
-- Jaesik Choi, KAIST 
+- Jaesik Choi, KAIST
+- James Wexler, Google
+- Jesse Vig, Salesforce 
+- Lev Utkin, Peter the Great St.Petersburg Polytechnic University
 - Marco Angelini, Sapienza University of Rome 
+- Marco Valentino, University of Manchester
 - Mark Keane, University College Dublin 
 - Przemyslaw Biecek, Warsaw University of Technology
 - Riccardo Guidotti, University of Pisa
@@ -285,6 +293,7 @@ Peter Stone (Sony AI) and Daniele Nardi (Sapienza University of Rome)
 - Tongshuang Wu, University of Washington
 - Umang Bhatt, University of Cambridge
 - Ute Schmid, University of Bamberg 
+- Wenbo Guo, Pennsylvania State University
 - Wojciech Samek, Fraunhofer HHI 
 
 <hr>

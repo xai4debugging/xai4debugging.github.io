@@ -270,6 +270,7 @@ Peter Stone (Sony AI) and Daniele Nardi (Sapienza University of Rome)
 - Arjun Akula, University of California
 - Avishek Anand, Leibniz University
 - Bilal Alsallakh, Facebook
+- Chaofan Chen, University of Maine
 - Chirag Agarwal, Harvard University
 - Daniele Nardi, Sapienza University of Rome
 - Eoin M. Kenny,  Insight Centre for Data Analytics
@@ -281,10 +282,12 @@ Peter Stone (Sony AI) and Daniele Nardi (Sapienza University of Rome)
 - Jaesik Choi, KAIST
 - James Wexler, Google
 - Jesse Vig, Salesforce 
+- José Oramas, University of Antwerp
 - Lev Utkin, Peter the Great St.Petersburg Polytechnic University
 - Marco Angelini, Sapienza University of Rome 
 - Marco Valentino, University of Manchester
-- Mark Keane, University College Dublin 
+- Mark Keane, University College Dublin
+- Pepa Atanasova, University of Copenhagen 
 - Przemyslaw Biecek, Warsaw University of Technology
 - Riccardo Guidotti, University of Pisa
 - Rosina Weber, Drexel University  
@@ -292,9 +295,11 @@ Peter Stone (Sony AI) and Daniele Nardi (Sapienza University of Rome)
 - Sijia Liu, Michigan State University
 - Tongshuang Wu, University of Washington
 - Umang Bhatt, University of Cambridge
-- Ute Schmid, University of Bamberg 
+- Ute Schmid, University of Bamberg
+- Vitali Petsiuk, Boston University 
 - Wenbo Guo, Pennsylvania State University
-- Wojciech Samek, Fraunhofer HHI 
+- Wojciech Samek, Fraunhofer HHI
+- Yunfeng Zhang, IBM 
 
 <hr>
 

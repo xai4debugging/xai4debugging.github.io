@@ -21,6 +21,8 @@ The topics include <u>but are not limited to</u>:
 - Interpretable/Explainable deep learning models;
 - Applications and protocols that use current XAI methods to improve and/or debug deep learning models;
 - XAI evaluation: how can we assess the quality of explanations and their effectiveness for debugging purposes? 
+- User studies that include developers 
+- Qualitative analysis of XAI techniques
 - Visualization techniques for debugging Deep Learning models;
 - Debugging via interpretability: How can explainable artificial intelligence help us in debugging deep learning models?
 - Methods to identify and address sources and causes of failure (e.g.training data, regularization, objective functions, etc.);

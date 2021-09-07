@@ -25,10 +25,10 @@ The topics include <u>but are not limited to</u>:
 - Qualitative analysis of XAI techniques
 - Visualization techniques for debugging Deep Learning models;
 - Debugging via interpretability: How can explainable artificial intelligence help us in debugging deep learning models?
-- Methods to identify and address sources and causes of failure (e.g.training data, regularization, objective functions, etc.);
+- XAI methods to identify and address sources and causes of failure (e.g.training data, regularization, objective functions, etc.);
 - Visual analytics systems for understanding and debugging deep learning models;
 - Visual analytics systems guided by XAI methods - where XAI methods are the core of the system;
-- Analysis of limitations of current approaches;
+- Analysis of limitations of current XAI approaches;
 - Position papers on the topic of the workshop.
 <hr>
 
@@ -276,6 +276,7 @@ Peter Stone (Sony AI) and Daniele Nardi (Sapienza University of Rome)
 - Chirag Agarwal, Harvard University
 - Christopher J. Anders, Technical University of Berlin
 - Daniele Nardi, Sapienza University of Rome
+- Damien Garreau, Universite Cote d'Azur
 - Eoin M. Kenny,  Insight Centre for Data Analytics
 - Eunji Kim, Seoul National University
 - Francesca Rossi, IBM 
@@ -285,6 +286,7 @@ Peter Stone (Sony AI) and Daniele Nardi (Sapienza University of Rome)
 - Jaesik Choi, KAIST
 - James Wexler, Google
 - Jesse Vig, Salesforce 
+- Jie Ren, Shanghai Jiao Tong University
 - José Oramas, University of Antwerp
 - Lev Utkin, Peter the Great St.Petersburg Polytechnic University
 - Marco Angelini, Sapienza University of Rome 
@@ -294,14 +296,21 @@ Peter Stone (Sony AI) and Daniele Nardi (Sapienza University of Rome)
 - Przemyslaw Biecek, Warsaw University of Technology
 - Riccardo Guidotti, University of Pisa
 - Rosina Weber, Drexel University  
-- Sameer Singh, University of California 
+- Sameer Singh, University of California
+- Sandareka Wickramanayake, National University of Singapore
+- Scott Cheng-Hsin Yang, Rutgers University 
+- Shivansh Patel, University of Illinois
+- Seojin Bang, Carnegie Mellon University
 - Sijia Liu, Michigan State University
+- Suryabhan Singh Hada, University of California
+- Tong Wang, University of Iowa
 - Tongshuang Wu, University of Washington
 - Umang Bhatt, University of Cambridge
 - Ute Schmid, University of Bamberg
 - Vitali Petsiuk, Boston University 
 - Wenbo Guo, Pennsylvania State University
 - Wojciech Samek, Fraunhofer HHI
+- Woo-Jeoung Nam, Korea University
 - Yunfeng Zhang, IBM 
 
 <hr>

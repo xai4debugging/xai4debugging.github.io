@@ -55,9 +55,9 @@ We are planning to include an additional virtual channel, like Slack, where each
 
 Submission system opens: 11:59 PM CEST, Aug 15, 2021 <a href="https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/XAI4Debugging">LINK</a>
 
-Submission deadline: 11:59 PM CEST, Sep 15, 2021
+Submission deadline: 11:59 PM CEST, ~Sep 15~Sep 20, 2021  **(Extended deadline!)**
 
-Notification date:  11:59 PM CEST, Oct 10, 2021
+Notification date:  11:59 PM CEST, ~Oct 10~ Oct 15, 2021
 
 Camera-ready deadline: 11:59 PM CEST, Oct 20, 2021
 
@@ -310,6 +310,7 @@ Peter Stone (Sony AI) and Daniele Nardi (Sapienza University of Rome)
 - Vitali Petsiuk, Boston University 
 - Wenbo Guo, Pennsylvania State University
 - Wojciech Samek, Fraunhofer HHI
+- Wolfgang Stammer, Technical University Darmstadt
 - Woo-Jeoung Nam, Korea University
 - Yunfeng Zhang, IBM 
 

@@ -17,7 +17,7 @@ The workshop aims at advancing the discourse by collecting novel methods and dis
 ## **Topics**
 
 The topics include <u>but are not limited to</u>:
-- Novel XAI methods (*post-hoc, ante-hoc*, model-agnostic, etc.);
+- Novel XAI methods (*post-hoc, ante-hoc*, model-agnostic, etc.): note that these methods should be applicable to deep learning models, but their scope also can be different from debugging or diagnosis;
 - Interpretable/Explainable deep learning models;
 - Applications and protocols that use current XAI methods to improve and/or debug deep learning models;
 - XAI evaluation: how can we assess the quality of explanations and their effectiveness for debugging purposes? 

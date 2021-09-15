@@ -12,7 +12,7 @@ Recently, artificial intelligence has seen the explosion of deep learning models
 
 To address this problem, two research areas are particularly active: the eXplainable AI (XAI) field and the visual analytics community. The eXplainable XAI field tries to address such problems by proposing algorithmic methods that can explain, at least partially, the behavior of these networks. Their works also try to define the limits of interpretability, the definition of valid metrics, the study of users, and the study of the effectiveness of these solutions. Conversely, visual analytics systems target users helping them to understand and interact with machine learning models providing visualizations and systems that facilitate the exploration, analysis, interaction, and understanding of machine learning models. In the last few years, the usage of methodologies that explain deep learning models has become central in these systems. As a result, the interaction between the XAI and visual analytics communities is becoming more and more important.
 
-The workshop aims at advancing the discourse by collecting novel methods and discussing challenges, issues, and goals around the usage of XAI approaches to debug and improve current deep learning models. To achieve this goal, the workshop aims at bringing researchers and practitioners from both fields, strengthening their collaboration. In particular, we narrow the XAI focus to the specific case in which developers or researchers need to debug their models and diagnose system behaviors. Therefore we start from the assumption that this type of user typically has substantial knowledge about the models themselves but needs to validate, debug, and improve them.
+The workshop aims at advancing the discourse by collecting novel methods and discussing challenges, issues, and goals around the usage of XAI approaches to debug and improve current deep learning models. To achieve this goal, the workshop aims at bringing researchers and practitioners from both fields, strengthening their collaboration. In particular, we narrow the XAI focus to the specific case in which developers or researchers need to debug their models and diagnose system behaviors. Therefore we start from the assumption that this type of user typically has substantial knowledge about the models themselves but needs to validate, debug, and improve them. The workshop is scheduled for **December 14, 2021**.
 
 ## **Topics**
 
@@ -66,6 +66,8 @@ Notification date:  11:59 PM CEST, ~~Oct 10~~ Oct 15, 2021
 Camera-ready deadline: 11:59 PM CEST, Oct 20, 2021
 
 SlidesLive upload for speaker videos: 11:59 PM CEST, Oct 25, 2021
+
+Workshop date: Dec 14, 2021
 
 
 ### **Mentorship track:**

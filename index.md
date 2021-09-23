@@ -57,9 +57,9 @@ We are planning to include an additional virtual channel, like Slack, where each
 
 **Important Dates for Regular Track:**
 
-Submission system opens: 11:59 PM CEST, Aug 15, 2021 <a href="https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/XAI4Debugging">LINK</a>
+~~Submission system opens: 11:59 PM CEST, Aug 15, 2021 <a href="https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/XAI4Debugging">LINK</a>~~
 
-Submission deadline: 11:59 PM CEST, ~~Sep 15~~ Sep 20, 2021  **(Extended deadline!)**
+~~Submission deadline: 11:59 PM CEST, Sep 20, 2021  **(Extended deadline!)**~~
 
 Notification date:  11:59 PM CEST, ~~Oct 10~~ Oct 15, 2021
 
@@ -84,7 +84,7 @@ This special track aims at discovering and highlighting the most promising stude
 
 **Important Dates for A glimpse of the future track:** 
 
-Submission deadline: 11:59 PM CEST, Sep 20, 2021 <a href="https://cmt3.research.microsoft.com/XAI4Debugging2021/Track/1/Submission/Create">LINK</a>
+~~Submission deadline: 11:59 PM CEST, Sep 20, 2021 <a href="https://cmt3.research.microsoft.com/XAI4Debugging2021/Track/1/Submission/Create">LINK</a>~~
 
 Notification Date:  11:59 PM CEST, Oct 10, 2021
 
@@ -323,7 +323,7 @@ Peter Stone (Sony AI) and Daniele Nardi (Sapienza University of Rome)
 <hr>
 
 # **Contacts**
-If you have any questions feel free to join our <a href="https://join.slack.com/t/xai4debugging-4ua7968/shared_invite/zt-u394toc1-xiAPFBpt7bQPcVxlgqHm3w">slack channel</a> or contact us at any of the following email addresses:
+If you have any questions feel free to join our <a href="https://join.slack.com/t/xai4debugging-4ua7968/shared_invite/zt-vkfupieb-FFU7CeMmIgvmJJE5tMo8sA">slack channel</a> or contact us at any of the following email addresses:
 - larosa AT diag.uniroma1.it
 - capobianco AT diag.uniroma1.it
 - afeldman AT parc.com

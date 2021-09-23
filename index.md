@@ -108,7 +108,7 @@ TBD
           <div style="padding-top: 30px;
   padding-bottom: 30px;">
         Speaker: Julius Adebayo<br>
-        Talk: TBD
+        Talk: Detecting model reliance on spurious signals is challenging for post hoc explanation approaches
         </div>
     </div>
 

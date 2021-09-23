@@ -107,8 +107,8 @@ TBD
     <div class="speaker" style="margin:0;">
           <div style="padding-top: 30px;
   padding-bottom: 30px;">
-        Speaker: **Julius Adebayo** <br>
-        Talk: Detecting model reliance on spurious signals is challenging for post hoc explanation approaches
+         **Julius Adebayo** <br>
+         *Detecting model reliance on spurious signals is challenging for post hoc explanation approaches*
         </div>
     </div>
 

@@ -215,7 +215,7 @@ TBD
   object-fit:cover;">
       <div class="container">
         <h3>Leilani H. Gilpin</h3>
-        <p class="title">Sony AI</p>
+        <p class="title">University of California, Santa Cruz</p>
       </div>
     </a>
     </div>

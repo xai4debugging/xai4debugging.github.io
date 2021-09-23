@@ -107,7 +107,7 @@ TBD
     <div class="speaker" style="margin:0;">
           <div style="padding-top: 30px;
   padding-bottom: 30px;">
-         <strong>Julius Adebayo** </strong>
+         <strong>Julius Adebayo</strong>
          <br>
          <em>Detecting model reliance on spurious signals is challenging for post hoc explanation approaches</em>
         </div>

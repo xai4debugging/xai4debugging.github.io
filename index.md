@@ -63,7 +63,7 @@ We are planning to include an additional virtual channel, like Slack, where each
 
 Notification date:  11:59 PM CEST, ~~Oct 10~~ ~~Oct 15~~ Oct 16, 2021
 
-Camera-ready deadline: 11:59 PM CEST,~~ Oct 20~~ Oct 31, 2021
+Camera-ready deadline: 11:59 PM CEST, ~~Oct 20~~ Oct 31, 2021
 
 SlidesLive upload for speaker videos: 11:59 PM CEST, ~~Oct 25~~Oct 28, 2021
 

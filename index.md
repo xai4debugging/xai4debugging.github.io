@@ -63,11 +63,17 @@ We are planning to include an additional virtual channel, like Slack, where each
 
 Notification date:  11:59 PM CEST, ~~Oct 10~~ ~~Oct 15~~ Oct 17, 2021
 
-Camera-ready deadline: 11:59 PM CEST, ~~Oct 20~~ Oct 31, 2021
-
 SlidesLive upload for speaker videos: 11:59 PM CEST, ~~Oct 25~~ Oct 28, 2021
 
+Camera-ready deadline : 11:59 PM CEST, Nov 5, 2021
+
+Poster deadline : 11:59 PM CEST, Nov 5, 2021
+
 Workshop date: Dec 14, 2021
+
+
+
+Note that for papers that include a link to the code, the deadline for the camera-ready version is extended to 11:59 PM CEST, Nov 15, 2021
 
 
 ### **Mentorship track:**

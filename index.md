@@ -61,7 +61,7 @@ We are planning to include an additional virtual channel, like Slack, where each
 
 ~~Submission deadline: 11:59 PM CEST, Sep 20, 2021  **(Extended deadline!)**~~
 
-Notification date:  11:59 PM CEST, ~~Oct 10~~ ~~Oct 15~~ Oct 17, 2021
+~~Notification date:  11:59 PM CEST, Oct 17, 2021~~
 
 SlidesLive upload for speaker videos: 11:59 PM CEST, ~~Oct 25~~ Oct 28, 2021
 

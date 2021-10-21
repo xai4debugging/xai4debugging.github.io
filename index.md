@@ -94,7 +94,7 @@ This special track aims at discovering and highlighting the most promising stude
 
 ~~Notification Date:  11:59 PM CEST, Oct 10, 2021~~
 
-SlidesLive upload for speaker videos: 11:59 PM CEST, ~~Oct 25~~ Oct 28, 2021
+SlidesLive upload for speaker videos: 11:59 PM CEST, Oct 25, 2021
 <hr>
 
 # **Schedule**

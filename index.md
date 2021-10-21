@@ -67,7 +67,7 @@ SlidesLive upload for speaker videos: 11:59 PM CEST, ~~Oct 25~~ Oct 28, 2021
 
 Camera-ready deadline : 11:59 PM CEST, Nov 5, 2021
 
-Poster deadline : 11:59 PM CEST, Nov 5, 2021
+Poster deadline : 11:59 PM CEST, Dec 1, 2021
 
 Workshop date: Dec 14, 2021
 

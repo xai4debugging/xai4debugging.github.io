@@ -65,6 +65,8 @@ We are planning to include an additional virtual channel, like Slack, where each
 
 SlidesLive upload for speaker videos: 11:59 PM CEST, ~~Oct 25~~ Oct 28, 2021
 
+**<p style="color:red">NEW: Available the LaTeX template style for camera-ready versions <a href="files/neurips_2021.sty">HERE</a>. Simply download the file and replace the "neurips_2021.sty" file in your folder. Use the option "final" when import the neurips package using the following command \usepackage[preprint]{neurips_2021} at the beginning of your LaTeX .tex file.</p>**
+
 Camera-ready deadline : 11:59 PM CEST, Nov 5, 2021
 
 Poster deadline : 11:59 PM CEST, Dec 1, 2021

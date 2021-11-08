@@ -101,7 +101,7 @@ This special track aims at discovering and highlighting the most promising stude
 <hr>
 
 # **Schedule Draft**
-
+ Central European Time (CET)
 <table class="table table-condensed" style="border-style:none !important">
             <colgroup><col style="width:80px">
 </colgroup><tbody><tr style="border-style:none !important;position: relative;height:100%">
@@ -117,7 +117,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-22157">
-            Tue 2:00 p.m. - 2:09 p.m.
+            Tue 2:00 p.m. - 2:09 p.m. (CET)
         </div>
     </td>
     <td>
@@ -151,7 +151,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-22359">
-            Tue 2:10 p.m. - 2:13 p.m.
+            Tue 2:10 p.m. - 2:13 p.m. (CET)
         </div>
     </td>
     <td>
@@ -185,7 +185,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-22164">
-            Tue 2:14 p.m. - 2:52 p.m.
+            Tue 2:14 p.m. - 2:52 p.m. (CET)
         </div>
     </td>
     <td>
@@ -219,7 +219,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-22339">
-            Tue 2:53 p.m. - 3:03 p.m.
+            Tue 2:53 p.m. - 3:03 p.m. (CET)
         </div>
     </td>
     <td>
@@ -253,7 +253,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-22362">
-            Tue 3:04 p.m. - 3:05 p.m.
+            Tue 3:04 p.m. - 3:05 p.m. (CET)
         </div>
     </td>
     <td>
@@ -287,7 +287,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-32100">
-            Tue 3:05 p.m. - 3:19 p.m.
+            Tue 3:05 p.m. - 3:19 p.m. (CET)
         </div>
     </td>
     <td>
@@ -322,7 +322,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-22347">
-            Tue 3:20 p.m. - 3:25 p.m.
+            Tue 3:20 p.m. - 3:25 p.m. (CET)
         </div>
     </td>
     <td>
@@ -356,7 +356,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-22167">
-            Tue 3:25 p.m. - 3:35 p.m.
+            Tue 3:25 p.m. - 3:35 p.m. (CET)
         </div>
     </td>
     <td>
@@ -390,7 +390,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-22165">
-            Tue 3:35 p.m. - 3:37 p.m.
+            Tue 3:35 p.m. - 3:37 p.m. (CET)
         </div>
     </td>
     <td>
@@ -424,7 +424,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-22160">
-            Tue 3:37 p.m. - 4:21 p.m.
+            Tue 3:37 p.m. - 4:21 p.m. (CET)
         </div>
     </td>
     <td>
@@ -458,7 +458,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-22338">
-            Tue 4:22 p.m. - 4:32 p.m.
+            Tue 4:22 p.m. - 4:32 p.m. (CET)
         </div>
     </td>
     <td>
@@ -492,7 +492,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-22361">
-            Tue 4:33 p.m. - 4:34 p.m.
+            Tue 4:33 p.m. - 4:34 p.m. (CET)
         </div>
     </td>
     <td>
@@ -526,7 +526,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-32116">
-            Tue 4:34 p.m. - 4:49 p.m.
+            Tue 4:34 p.m. - 4:49 p.m. (CET)
         </div>
     </td>
     <td>
@@ -563,7 +563,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-22346">
-            Tue 4:50 p.m. - 4:55 p.m.
+            Tue 4:50 p.m. - 4:55 p.m. (CET)
         </div>
     </td>
     <td>
@@ -597,7 +597,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-22354">
-            Tue 4:55 p.m. - 5:05 p.m.
+            Tue 4:55 p.m. - 5:05 p.m. (CET)
         </div>
     </td>
     <td>
@@ -631,7 +631,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-22367">
-            Tue 5:05 p.m. - 5:07 p.m.
+            Tue 5:05 p.m. - 5:07 p.m. (CET)
         </div>
     </td>
     <td>
@@ -665,7 +665,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-22351">
-            Tue 5:07 p.m. - 5:20 p.m.
+            Tue 5:07 p.m. - 5:20 p.m. (CET)
         </div>
     </td>
     <td>
@@ -699,7 +699,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-22352">
-            Tue 5:21 p.m. - 5:26 p.m.
+            Tue 5:21 p.m. - 5:26 p.m. (CET)
         </div>
     </td>
     <td>
@@ -733,7 +733,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-22366">
-            Tue 5:27 p.m. - 5:28 p.m.
+            Tue 5:27 p.m. - 5:28 p.m. (CET)
         </div>
     </td>
     <td>
@@ -767,7 +767,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-32095">
-            Tue 5:28 p.m. - 5:41 p.m.
+            Tue 5:28 p.m. - 5:41 p.m. (CET)
         </div>
     </td>
     <td>
@@ -804,7 +804,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-22353">
-            Tue 5:42 p.m. - 5:47 p.m.
+            Tue 5:42 p.m. - 5:47 p.m. (CET)
         </div>
     </td>
     <td>
@@ -838,7 +838,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-32671">
-            Tue 5:48 p.m. - 5:50 p.m.
+            Tue 5:48 p.m. - 5:50 p.m. (CET)
         </div>
     </td>
     <td>
@@ -872,7 +872,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-32084">
-            Tue 5:50 p.m. - 5:53 p.m.
+            Tue 5:50 p.m. - 5:53 p.m. (CET)
         </div>
     </td>
     <td>
@@ -909,7 +909,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-32086">
-            Tue 5:53 p.m. - 5:57 p.m.
+            Tue 5:53 p.m. - 5:57 p.m. (CET)
         </div>
     </td>
     <td>
@@ -946,7 +946,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-32094">
-            Tue 5:57 p.m. - 6:00 p.m.
+            Tue 5:57 p.m. - 6:00 p.m. (CET)
         </div>
     </td>
     <td>
@@ -983,7 +983,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-32099">
-            Tue 6:00 p.m. - 6:03 p.m.
+            Tue 6:00 p.m. - 6:03 p.m. (CET)
         </div>
     </td>
     <td>
@@ -1020,7 +1020,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-32115">
-            Tue 6:03 p.m. - 6:06 p.m.
+            Tue 6:03 p.m. - 6:06 p.m. (CET)
         </div>
     </td>
     <td>
@@ -1057,7 +1057,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-32097">
-            Tue 6:06 p.m. - 6:09 p.m.
+            Tue 6:06 p.m. - 6:09 p.m. (CET)
         </div>
     </td>
     <td>
@@ -1094,7 +1094,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-32113">
-            Tue 6:09 p.m. - 6:12 p.m.
+            Tue 6:09 p.m. - 6:12 p.m. (CET)
         </div>
     </td>
     <td>
@@ -1131,7 +1131,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-22356">
-            Tue 6:12 p.m. - 6:22 p.m.
+            Tue 6:12 p.m. - 6:22 p.m. (CET)
         </div>
     </td>
     <td>
@@ -1165,7 +1165,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-22358">
-            Tue 6:22 p.m. - 6:25 p.m.
+            Tue 6:22 p.m. - 6:25 p.m. (CET)
         </div>
     </td>
     <td>
@@ -1199,7 +1199,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-22161">
-            Tue 6:26 p.m. - 7:04 p.m.
+            Tue 6:26 p.m. - 7:04 p.m. (CET)
         </div>
     </td>
     <td>
@@ -1233,7 +1233,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-22337">
-            Tue 7:05 p.m. - 7:15 p.m.
+            Tue 7:05 p.m. - 7:15 p.m. (CET)
         </div>
     </td>
     <td>
@@ -1267,7 +1267,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-22365">
-            Tue 7:16 p.m. - 7:17 p.m.
+            Tue 7:16 p.m. - 7:17 p.m. (CET)
         </div>
     </td>
     <td>
@@ -1301,7 +1301,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-32107">
-            Tue 7:17 p.m. - 7:32 p.m.
+            Tue 7:17 p.m. - 7:32 p.m. (CET)
         </div>
     </td>
     <td>
@@ -1338,7 +1338,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-22348">
-            Tue 7:33 p.m. - 7:38 p.m.
+            Tue 7:33 p.m. - 7:38 p.m. (CET)
         </div>
     </td>
     <td>
@@ -1372,7 +1372,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-22355">
-            Tue 7:38 p.m. - 7:50 p.m.
+            Tue 7:38 p.m. (CET) (CET) - 7:50 p.m. (CET) (CET)
         </div>
     </td>
     <td>
@@ -1406,7 +1406,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-22357">
-            Tue 7:50 p.m. - 7:51 p.m.
+            Tue 7:50 p.m. (CET) (CET) - 7:51 p.m. (CET) (CET)
         </div>
     </td>
     <td>
@@ -1440,7 +1440,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-22158">
-            Tue 7:51 p.m. - 8:23 p.m.
+            Tue 7:51 p.m. (CET) (CET) - 8:23 p.m. (CET) (CET)
         </div>
     </td>
     <td>
@@ -1474,7 +1474,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-22166">
-            Tue 8:24 p.m. - 8:34 p.m.
+            Tue 8:24 p.m. (CET) (CET) - 8:34 p.m. (CET) (CET)
         </div>
     </td>
     <td>
@@ -1508,7 +1508,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-22363">
-            Tue 8:35 p.m. - 8:36 p.m.
+            Tue 8:35 p.m. (CET) (CET) - 8:36 p.m. (CET) (CET)
         </div>
     </td>
     <td>
@@ -1542,7 +1542,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-32101">
-            Tue 8:36 p.m. - 9:48 p.m.
+            Tue 8:36 p.m. - 9:48 p.m. (CET)
         </div>
     </td>
     <td>
@@ -1579,7 +1579,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-22350">
-            Tue 8:49 p.m. - 8:54 p.m.
+            Tue 8:49 p.m. - 8:54 p.m. (CET)
         </div>
     </td>
     <td>
@@ -1613,7 +1613,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-41216">
-            Tue 8:55 p.m. - 9:10 p.m.
+            Tue 8:55 p.m. - 9:10 p.m. (CET)
         </div>
     </td>
     <td>
@@ -1647,7 +1647,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-22364">
-            Tue 9:10 p.m. - 9:11 p.m.
+            Tue 9:10 p.m. - 9:11 p.m. (CET)
         </div>
     </td>
     <td>
@@ -1681,7 +1681,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-32106">
-            Tue 9:11 p.m. - 9:27 p.m.
+            Tue 9:11 p.m. - 9:27 p.m. (CET)
         </div>
     </td>
     <td>
@@ -1718,7 +1718,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-22349">
-            Tue 9:28 p.m. - 9:32 p.m.
+            Tue 9:28 p.m. - 9:32 p.m. (CET)
         </div>
     </td>
     <td>
@@ -1752,7 +1752,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-22168">
-            Tue 9:33 p.m. - 9:36 p.m.
+            Tue 9:33 p.m. - 9:36 p.m. (CET)
         </div>
     </td>
     <td>
@@ -1786,7 +1786,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-22159">
-            Tue 9:37 p.m. - 10:21 p.m.
+            Tue 9:37 p.m. - 10:21 p.m. (CET)
         </div>
     </td>
     <td>
@@ -1820,7 +1820,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-22169">
-            Tue 10:22 p.m. - 10:32 p.m.
+            Tue 10:22 p.m. - 10:32 p.m. (CET)
         </div>
     </td>
     <td>
@@ -1853,7 +1853,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-32672">
-            Tue 10:33 p.m. - 10:35 p.m.
+            Tue 10:33 p.m. - 10:35 p.m. (CET)
         </div>
     </td>
     <td>
@@ -1887,7 +1887,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-32109">
-            Tue 10:35 p.m. - 10:39 p.m.
+            Tue 10:35 p.m. - 10:39 p.m. (CET)
         </div>
     </td>
     <td>
@@ -1924,7 +1924,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-32103">
-            Tue 10:39 p.m. - 10:42 p.m.
+            Tue 10:39 p.m. - 10:42 p.m. (CET)
         </div>
     </td>
     <td>
@@ -1961,7 +1961,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-32092">
-            Tue 10:42 p.m. - 10:45 p.m.
+            Tue 10:42 p.m. - 10:45 p.m. (CET)
         </div>
     </td>
     <td>
@@ -1998,7 +1998,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-32090">
-            Tue 10:45 p.m. - 10:50 p.m.
+            Tue 10:45 p.m. - 10:50 p.m. (CET)
         </div>
     </td>
     <td>
@@ -2035,7 +2035,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-32105">
-            Tue 10:50 p.m. - 10:53 p.m.
+            Tue 10:50 p.m. - 10:53 p.m. (CET)
         </div>
     </td>
     <td>
@@ -2072,7 +2072,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-32111">
-            Tue 10:53 p.m. - 10:57 p.m.
+            Tue 10:53 p.m. - 10:57 p.m. (CET)
         </div>
     </td>
     <td>
@@ -2109,7 +2109,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-32088">
-            Tue 10:57 p.m. - 11:01 p.m.
+            Tue 10:57 p.m. - 11:01 p.m. (CET)
         </div>
     </td>
     <td>
@@ -2146,7 +2146,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-35849">
-            Tue 11:00 p.m. - 11:06 p.m.
+            Tue 11:00 p.m. - 11:06 p.m. (CET)
         </div>
     </td>
     <td>
@@ -2180,7 +2180,7 @@ This special track aims at discovering and highlighting the most promising stude
         )
     </script>
         <div class="workshopevent-date" id="bookmark-here-38517">
-            Tue 11:06 p.m. - 11:30 p.m.
+            Tue 11:06 p.m. - 11:30 p.m. (CET)
         </div>
     </td>
     <td>

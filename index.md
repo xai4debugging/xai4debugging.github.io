@@ -146,7 +146,7 @@ TBD
       <div style="padding-top: 30px;
   padding-bottom: 30px;">
         Andreas Holzinger<br>
-        Talk: TBD      
+        <em>Explainability and robustness: Towards trustworthy AI</em>     
       </div>
     </div>
 </div>
@@ -160,7 +160,7 @@ TBD
       <div style="padding-top: 30px;
   padding-bottom: 30px;">
         Himabindu Lakkaraju<br>
-        Talk: TBD      
+        <em>Towards Reliable and Robust Model Explanations</em>      
       </div>
     </div>
 </div>
@@ -174,7 +174,7 @@ TBD
       <div style="padding-top: 30px;
   padding-bottom: 30px;">
        Shixia Liu<br>
-        Talk: TBD      
+        <em>Visual Analytics for Explainable Machine Learning</em>      
       </div>
     </div>
 </div>

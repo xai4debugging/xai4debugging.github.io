@@ -40,7 +40,7 @@ The call for papers includes three different tracks: *regular*, *mentorship*, an
 ## **Tracks**
 
 ### **Regular track:**
-Submissions to this track have to be novel contributions covering any topic listed above. We don't accept work that has been already published, that is concurrently submitted to other venues before the submission deadline, or that is presented at the main NeurIPS conference, including as part of an invited talk. We solicit submission of full papers, position papers, and papers describing open problems on one of the topics listed above. Papers must be submitted through the <a href="https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/XAI4Debugging">Open Review submission system</a>. <u>Papers submitted to the workshop can be submitted to future conferences (e.g. ICML, ICLR) if the acceptance notification comes after the workshop date (December, 14)</u>. 
+Submissions to this track have to be novel contributions covering any topic listed above. We don't accept work that has been already published, that is concurrently submitted to other venues before the submission deadline, or that is presented at the main NeurIPS conference, including as part of an invited talk. We solicit submission of full papers, position papers, and papers describing open problems on one of the topics listed above. Papers must be submitted through the . <u>Papers submitted to the workshop can be submitted to future conferences (e.g. ICML, ICLR) if the acceptance notification comes after the workshop date (December, 14)</u>. 
 
 We only allow **dual submissions of papers submitted to the main NeurIPS 2021 conference** with the following constraints: papers must be withdrawn from this workshop before October 1st if they will be accepted at the main conference; papers must include the declaration of dual submission BEFORE the introduction section; authors must append  the reviews received from NeurIPS conference (printed from the OpenReview system) to the main corpus and a brief letter summarizing the improvements made after the review process.
 
@@ -57,7 +57,7 @@ We are planning to include an additional virtual channel, like Slack, where each
 
 **Important Dates for Regular Track:**
 
-~~Submission system opens: 11:59 PM CEST, Aug 15, 2021 <a href="https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/XAI4Debugging">LINK</a>~~
+~~Submission system opens: 11:59 PM CEST, Aug 15, 2021 ~~
 
 ~~Submission deadline: 11:59 PM CEST, Sep 20, 2021  **(Extended deadline!)**~~
 
@@ -100,11 +100,2109 @@ This special track aims at discovering and highlighting the most promising stude
 ~~SlidesLive upload for speaker videos: 11:59 PM CEST, Oct 28, 2021~~
 <hr>
 
-# **Schedule**
+# **Schedule Draft**
 
-TBD
+<table class="table table-condensed" style="border-style:none !important">
+            <colgroup><col style="width:80px">
+</colgroup><tbody><tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-22157"></span>
+    <script>
+        add_bookmark_click(
+            22157,
+             1,
+            'bookmark-event-22157',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-22157">
+            Tue 2:00 p.m. - 2:09 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 22157">
+            Welcome
+        </strong>
+            <small>(Opening)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22157">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Roberto Capobianco</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-22359"></span>
+    <script>
+        add_bookmark_click(
+            22359,
+             1,
+            'bookmark-event-22359',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-22359">
+            Tue 2:10 p.m. - 2:13 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Live short intro | id: 22359">
+            Speaker Introduction
+        </strong>
+            <small>(Introduction)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22359">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Wen Sun</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-22164"></span>
+    <script>
+        add_bookmark_click(
+            22164,
+             1,
+            'bookmark-event-22164',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-22164">
+            Tue 2:14 p.m. - 2:52 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 22164">
+            [IT1] Visual Analytics for Explainable Machine Learning
+        </strong>
+            <small>(Invited Talk)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22164">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Shixia Liu</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-22339"></span>
+    <script>
+        add_bookmark_click(
+            22339,
+             1,
+            'bookmark-event-22339',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-22339">
+            Tue 2:53 p.m. - 3:03 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Live Q&amp;A, talk or panel, live-streamed | id: 22339">
+            Q/A Session
+        </strong>
+            <small>(Live Q/A)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22339">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Wen Sun, Shixia Liu</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-22362"></span>
+    <script>
+        add_bookmark_click(
+            22362,
+             1,
+            'bookmark-event-22362',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-22362">
+            Tue 3:04 p.m. - 3:05 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 22362">
+            Speaker Introduction
+        </strong>
+            <small>(Introduction)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22362">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Biagio La Rosa</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-32100"></span>
+    <script>
+        add_bookmark_click(
+            32100,
+             1,
+            'bookmark-event-32100',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-32100">
+            Tue 3:05 p.m. - 3:19 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 32100">
+            [O1] Visualizing the Sim2Real Gap in Robot Ego-Pose Estimation
+        </strong>
+            <small>(Oral)</small>
+               <span>
+               </span>
+         &nbsp;
+        <div>
+            <div class="collapse" id="collapse32100">
+                <div class="card card-body">      
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Théo Jaunet, Christian Wolf</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-22347"></span>
+    <script>
+        add_bookmark_click(
+            22347,
+             1,
+            'bookmark-event-22347',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-22347">
+            Tue 3:20 p.m. - 3:25 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Live Q&amp;A, talk or panel, live-streamed | id: 22347">
+            Q/A Session
+        </strong>
+            <small>(Live Q/A)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22347">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Biagio La Rosa</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-22167"></span>
+    <script>
+        add_bookmark_click(
+            22167,
+             1,
+            'bookmark-event-22167',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-22167">
+            Tue 3:25 p.m. - 3:35 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Break | id: 22167">
+            Break (10min)
+        </strong>
+            <small>(Break)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22167">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i></i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-22165"></span>
+    <script>
+        add_bookmark_click(
+            22165,
+             1,
+            'bookmark-event-22165',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-22165">
+            Tue 3:35 p.m. - 3:37 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 22165">
+            Speaker Introduction
+        </strong>
+            <small>(Introduction)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22165">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Biagio La Rosa</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-22160"></span>
+    <script>
+        add_bookmark_click(
+            22160,
+             1,
+            'bookmark-event-22160',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-22160">
+            Tue 3:37 p.m. - 4:21 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 22160">
+            [IT2] Explainability and robustness: Towards trustworthy AI
+        </strong>
+            <small>(Invited Talk)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22160">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Andreas Holzinger</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-22338"></span>
+    <script>
+        add_bookmark_click(
+            22338,
+             1,
+            'bookmark-event-22338',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-22338">
+            Tue 4:22 p.m. - 4:32 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Live Q&amp;A, talk or panel, live-streamed | id: 22338">
+            Q/A Session
+        </strong>
+            <small>(Live Q/A)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22338">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Biagio La Rosa, Andreas Holzinger</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-22361"></span>
+    <script>
+        add_bookmark_click(
+            22361,
+             1,
+            'bookmark-event-22361',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-22361">
+            Tue 4:33 p.m. - 4:34 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 22361">
+            Speaker Introduction
+        </strong>
+            <small>(Introduction)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22361">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Leilani H Gilpin</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-32116"></span>
+    <script>
+        add_bookmark_click(
+            32116,
+             1,
+            'bookmark-event-32116',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-32116">
+            Tue 4:34 p.m. - 4:49 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 32116">
+            [O2] Not too close and not too far: enforcing monotonicity requires penalizing the right points
+        </strong>
+            <small>(Oral)</small>
+               <span>
+                <span class="">
+                </span>
+               </span>
+         &nbsp;
+        <div>
+            <div class="collapse" id="collapse32116">
+                <div class="card card-body"> 
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Joao Monteiro, mohamed.o.ahmed, Hossein Hajimirsadeghi, Greg Mori</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-22346"></span>
+    <script>
+        add_bookmark_click(
+            22346,
+             1,
+            'bookmark-event-22346',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-22346">
+            Tue 4:50 p.m. - 4:55 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Live Q&amp;A, talk or panel, live-streamed | id: 22346">
+            Q/A Session
+        </strong>
+            <small>(Live Q/A)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22346">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Leilani H Gilpin</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-22354"></span>
+    <script>
+        add_bookmark_click(
+            22354,
+             1,
+            'bookmark-event-22354',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-22354">
+            Tue 4:55 p.m. - 5:05 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Break | id: 22354">
+            Break (10min)
+        </strong>
+            <small>(Break)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22354">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i></i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-22367"></span>
+    <script>
+        add_bookmark_click(
+            22367,
+             1,
+            'bookmark-event-22367',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-22367">
+            Tue 5:05 p.m. - 5:07 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 22367">
+            Speaker Introduction
+        </strong>
+            <small>(Introduction)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22367">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Biagio La Rosa</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-22351"></span>
+    <script>
+        add_bookmark_click(
+            22351,
+             1,
+            'bookmark-event-22351',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-22351">
+            Tue 5:07 p.m. - 5:20 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 22351">
+            [G] Empowering Human Translators via Interpretable Interactive Neural Machine Translation
+        </strong>
+            <small>(A glimpse of the future Track)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22351" style="">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Gabriele Sarti</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-22352"></span>
+    <script>
+        add_bookmark_click(
+            22352,
+             1,
+            'bookmark-event-22352',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-22352">
+            Tue 5:21 p.m. - 5:26 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Live Q&amp;A, talk or panel, live-streamed | id: 22352">
+            Q/A Session
+        </strong>
+            <small>(Live Q/A)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22352">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Biagio La Rosa, Gabriele Sarti</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-22366"></span>
+    <script>
+        add_bookmark_click(
+            22366,
+             1,
+            'bookmark-event-22366',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-22366">
+            Tue 5:27 p.m. - 5:28 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 22366">
+            Speaker Introduction
+        </strong>
+            <small>(Introduction)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22366">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Biagio La Rosa</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-32095"></span>
+    <script>
+        add_bookmark_click(
+            32095,
+             1,
+            'bookmark-event-32095',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-32095">
+            Tue 5:28 p.m. - 5:41 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 32095">
+            [O3] Reinforcement Explanation Learning
+        </strong>
+            <small>(Oral)</small>
+               <span>
+                <span class="">
+                </span>
+               </span>
+         &nbsp;
+        <div>
+            <div class="collapse" id="collapse32095">
+                <div class="card card-body">              
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>agarwalsiddhant10, OWAIS IQBAL, Sree Aditya Buridi, Madda Manjusha, Abir Das</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-22353"></span>
+    <script>
+        add_bookmark_click(
+            22353,
+             1,
+            'bookmark-event-22353',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-22353">
+            Tue 5:42 p.m. - 5:47 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Live Q&amp;A, talk or panel, live-streamed | id: 22353">
+            Q/A Session
+        </strong>
+            <small>(Live Q/A)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22353">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Biagio La Rosa</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-32671"></span>
+    <script>
+        add_bookmark_click(
+            32671,
+             1,
+            'bookmark-event-32671',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-32671">
+            Tue 5:48 p.m. - 5:50 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 32671">
+            Spotlight Introduction
+        </strong>
+            <small>(Introduction)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse32671">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Biagio La Rosa</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-32084"></span>
+    <script>
+        add_bookmark_click(
+            32084,
+             1,
+            'bookmark-event-32084',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-32084">
+            Tue 5:50 p.m. - 5:53 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 32084">
+            [S1] Interpreting BERT architecture predictions for peptide presentation by MHC class I proteins
+        </strong>
+            <small>(Spotlight)</small>
+               <span>
+                <span class="">                    
+                </span>
+               </span>
+         &nbsp;
+        <div>
+            <div class="collapse" id="collapse32084">
+                <div class="card card-body">      
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Hans-Christof Gasser</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-32086"></span>
+    <script>
+        add_bookmark_click(
+            32086,
+             1,
+            'bookmark-event-32086',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-32086">
+            Tue 5:53 p.m. - 5:57 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 32086">
+            [S2] XC: Exploring Quantitative Use Cases for Explanations in 3D Object Detection
+        </strong>
+            <small>(Spotlight)</small>
+               <span>
+                <span class="">
+                </span>
+               </span>
+         &nbsp;
+        <div>
+            <div class="collapse" id="collapse32086">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Sunsheng Gu, Vahdat Abdelzad, Krzysztof Czarnecki</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-32094"></span>
+    <script>
+        add_bookmark_click(
+            32094,
+             1,
+            'bookmark-event-32094',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-32094">
+            Tue 5:57 p.m. - 6:00 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 32094">
+            [S3] Interpretability in Gated Modular Neural Networks
+        </strong>
+            <small>(Spotlight)</small>
+               <span>
+                <span class="">
+                </span>
+               </span>
+         &nbsp;
+        <div>
+            <div class="collapse" id="collapse32094">
+                <div class="card card-body">
+         </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Yamuna Krishnamurthy, Chris Watkins</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-32099"></span>
+    <script>
+        add_bookmark_click(
+            32099,
+             1,
+            'bookmark-event-32099',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-32099">
+            Tue 6:00 p.m. - 6:03 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 32099">
+            [S4] A Robust Unsupervised Ensemble of Feature-Based Explanations using Restricted Boltzmann Machines
+        </strong>
+            <small>(Spotlight)</small>
+               <span>
+                <span class="">
+                </span>
+               </span>
+         &nbsp;
+        <div>
+            <div class="collapse" id="collapse32099">
+                <div class="card card-body">              
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Vadim Borisov, Johannes Meier, Johan Van den Heuvel, Hamed Jalali, Gjergji. Kasneci</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-32115"></span>
+    <script>
+        add_bookmark_click(
+            32115,
+             1,
+            'bookmark-event-32115',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-32115">
+            Tue 6:03 p.m. - 6:06 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 32115">
+            [S5] Debugging the Internals of Convolutional Networks
+        </strong>
+            <small>(Spotlight)</small>
+               <span>
+                <span class="">
+                </span>
+               </span>
+         &nbsp;
+        <div>
+            <div class="collapse" id="collapse32115">
+                <div class="card card-body">        
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Bilal Alsallakh, Narine Kokhlikyan, Vivek Miglani, Shubham Muttepawar, Edward Wang, Sara Zhang, Orion Reblitz-Richardson</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-32097"></span>
+    <script>
+        add_bookmark_click(
+            32097,
+             1,
+            'bookmark-event-32097',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-32097">
+            Tue 6:06 p.m. - 6:09 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 32097">
+            [S6] Defuse: Training More Robust Models through Creation and Correction of Novel Model Errors
+        </strong>
+            <small>(Spotlight)</small>
+               <span>
+                <span class="">
+                </span>
+               </span>
+         &nbsp;
+        <div>
+            <div class="collapse" id="collapse32097">
+                <div class="card card-body">       
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Dylan Slack, Krishnaram Kenthapadi</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-32113"></span>
+    <script>
+        add_bookmark_click(
+            32113,
+             1,
+            'bookmark-event-32113',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-32113">
+            Tue 6:09 p.m. - 6:12 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 32113">
+            [S7] DeDUCE: Generating Counterfactual Explanations At Scale
+        </strong>
+            <small>(Spotlight)</small>
+               <span>
+                <span class="">                    
+                </span>
+               </span>
+         &nbsp;
+        <div>
+            <div class="collapse" id="collapse32113">
+                <div class="card card-body">            
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Benedikt Höltgen, Lisa Schut, Jan Brauner, Yarin Gal</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-22356"></span>
+    <script>
+        add_bookmark_click(
+            22356,
+             1,
+            'bookmark-event-22356',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-22356">
+            Tue 6:12 p.m. - 6:22 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Break | id: 22356">
+            Break (10min)
+        </strong>
+            <small>(Break)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22356">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i></i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-22358"></span>
+    <script>
+        add_bookmark_click(
+            22358,
+             1,
+            'bookmark-event-22358',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-22358">
+            Tue 6:22 p.m. - 6:25 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 22358">
+            Speaker Introduction
+        </strong>
+            <small>(Introduction)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22358">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Alexander Feldman</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-22161"></span>
+    <script>
+        add_bookmark_click(
+            22161,
+             1,
+            'bookmark-event-22161',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-22161">
+            Tue 6:26 p.m. - 7:04 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 22161">
+            [IT3] Towards Reliable and Robust Model Explanations
+        </strong>
+            <small>(Invited Talk)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22161">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Himabindu Lakkaraju</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-22337"></span>
+    <script>
+        add_bookmark_click(
+            22337,
+             1,
+            'bookmark-event-22337',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-22337">
+            Tue 7:05 p.m. - 7:15 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Live Q&amp;A, talk or panel, live-streamed | id: 22337">
+            Q/A Session
+        </strong>
+            <small>(Live Q/A)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22337">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Alexander Feldman, Himabindu Lakkaraju</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-22365"></span>
+    <script>
+        add_bookmark_click(
+            22365,
+             1,
+            'bookmark-event-22365',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-22365">
+            Tue 7:16 p.m. - 7:17 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 22365">
+            Speaker Introduction
+        </strong>
+            <small>(Introduction)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22365">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Roberto Capobianco</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-32107"></span>
+    <script>
+        add_bookmark_click(
+            32107,
+             1,
+            'bookmark-event-32107',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-32107">
+            Tue 7:17 p.m. - 7:32 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 32107">
+            [O4] Are All Neurons Created Equal? Interpreting and Controlling BERT through Individual Neurons
+        </strong>
+            <small>(Oral)</small>
+               <span>
+                <span class="">
+                </span>
+               </span>
+         &nbsp;
+        <div>
+            <div class="collapse" id="collapse32107">
+                <div class="card card-body">      
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Omer Antverg, Yonatan Belinkov</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-22348"></span>
+    <script>
+        add_bookmark_click(
+            22348,
+             1,
+            'bookmark-event-22348',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-22348">
+            Tue 7:33 p.m. - 7:38 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Live Q&amp;A, talk or panel, live-streamed | id: 22348">
+            Q/A Session
+        </strong>
+            <small>(Live Q/A)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22348">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Roberto Capobianco</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-22355"></span>
+    <script>
+        add_bookmark_click(
+            22355,
+             1,
+            'bookmark-event-22355',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-22355">
+            Tue 7:38 p.m. - 7:50 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Break | id: 22355">
+            Break (12min)
+        </strong>
+            <small>(Break)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22355">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i></i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-22357"></span>
+    <script>
+        add_bookmark_click(
+            22357,
+             1,
+            'bookmark-event-22357',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-22357">
+            Tue 7:50 p.m. - 7:51 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 22357">
+            Speaker Introduction
+        </strong>
+            <small>(Introduction)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22357">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Leilani H Gilpin</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-22158"></span>
+    <script>
+        add_bookmark_click(
+            22158,
+             1,
+            'bookmark-event-22158',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-22158">
+            Tue 7:51 p.m. - 8:23 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 22158">
+            [IT4] Detecting model reliance on spurious signals is challenging for post hoc explanation approaches
+        </strong>
+            <small>(Invited Talk)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22158" style="">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Julius Adebayo</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-22166"></span>
+    <script>
+        add_bookmark_click(
+            22166,
+             1,
+            'bookmark-event-22166',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-22166">
+            Tue 8:24 p.m. - 8:34 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Live Q&amp;A, talk or panel, live-streamed | id: 22166">
+            Q/A Session
+        </strong>
+            <small>(Live Q/A)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22166">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Leilani H Gilpin, Julius Adebayo</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-22363"></span>
+    <script>
+        add_bookmark_click(
+            22363,
+             1,
+            'bookmark-event-22363',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-22363">
+            Tue 8:35 p.m. - 8:36 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 22363">
+            Speaker Introduction
+        </strong>
+            <small>(Introduction)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22363">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Roberto Capobianco</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-32101"></span>
+    <script>
+        add_bookmark_click(
+            32101,
+             1,
+            'bookmark-event-32101',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-32101">
+            Tue 8:36 p.m. - 9:48 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 32101">
+            [O5] Do Feature Attribution Methods Correctly Attribute Features?
+        </strong>
+            <small>(Oral)</small>
+               <span>
+                <span class="">
+                </span>
+               </span>
+         &nbsp;
+        <div>
+            <div class="collapse" id="collapse32101">
+                <div class="card card-body">          
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Yilun Zhou, Serena Booth, Marco Tulio Ribeiro, Julie A Shah</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-22350"></span>
+    <script>
+        add_bookmark_click(
+            22350,
+             1,
+            'bookmark-event-22350',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-22350">
+            Tue 8:49 p.m. - 8:54 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Live Q&amp;A, talk or panel, live-streamed | id: 22350">
+            Q/A Session
+        </strong>
+            <small>(Live Q/A)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22350">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Roberto Capobianco</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-41216"></span>
+    <script>
+        add_bookmark_click(
+            41216,
+             1,
+            'bookmark-event-41216',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-41216">
+            Tue 8:55 p.m. - 9:10 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Break | id: 41216">
+            Break (15min)
+        </strong>
+            <small>(Break)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse41216">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i></i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-22364"></span>
+    <script>
+        add_bookmark_click(
+            22364,
+             1,
+            'bookmark-event-22364',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-22364">
+            Tue 9:10 p.m. - 9:11 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 22364">
+            Speaker Introduction
+        </strong>
+            <small>(Introduction)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22364">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Roberto Capobianco</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-32106"></span>
+    <script>
+        add_bookmark_click(
+            32106,
+             1,
+            'bookmark-event-32106',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-32106">
+            Tue 9:11 p.m. - 9:27 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 32106">
+            [O6] Explaining Information Flow Inside Vision Transformers Using Markov Chain
+        </strong>
+            <small>(Oral)</small>
+               <span>
+                <span class="">
+                </span>
+               </span>
+         &nbsp;
+        <div>
+            <div class="collapse" id="collapse32106">
+                <div class="card card-body">          
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Tingyi Yuan, Xuhong Li, Haoyi Xiong, Dejing Dou</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-22349"></span>
+    <script>
+        add_bookmark_click(
+            22349,
+             1,
+            'bookmark-event-22349',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-22349">
+            Tue 9:28 p.m. - 9:32 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Live Q&amp;A, talk or panel, live-streamed | id: 22349">
+            Q/A Session
+        </strong>
+            <small>(Live Q/A)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22349">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Roberto Capobianco</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-22168"></span>
+    <script>
+        add_bookmark_click(
+            22168,
+             1,
+            'bookmark-event-22168',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-22168">
+            Tue 9:33 p.m. - 9:36 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 22168">
+            Speaker Introduction
+        </strong>
+            <small>(Introduction)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22168">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Alice Xiang</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-22159"></span>
+    <script>
+        add_bookmark_click(
+            22159,
+             1,
+            'bookmark-event-22159',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-22159">
+            Tue 9:37 p.m. - 10:21 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 22159">
+            [IT5] Natural language descriptions of deep features
+        </strong>
+            <small>(Invited Talk)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22159" style="">
+                <div class="card card-body">          
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Jacob Andreas</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-22169"></span>
+    <script>
+        add_bookmark_click(
+            22169,
+             1,
+            'bookmark-event-22169',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-22169">
+            Tue 10:22 p.m. - 10:32 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Live Q&amp;A, talk or panel, live-streamed | id: 22169">
+            Q/A Session
+        </strong>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22169">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Alice Xiang, Jacob Andreas</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-32672"></span>
+    <script>
+        add_bookmark_click(
+            32672,
+             1,
+            'bookmark-event-32672',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-32672">
+            Tue 10:33 p.m. - 10:35 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 32672">
+            Spotlight Introduction
+        </strong>
+            <small>(Introduction)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse32672">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Biagio La Rosa</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-32109"></span>
+    <script>
+        add_bookmark_click(
+            32109,
+             1,
+            'bookmark-event-32109',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-32109">
+            Tue 10:35 p.m. - 10:39 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 32109">
+            [S8] Fast TreeSHAP: Accelerating SHAP Value Computation for Trees
+        </strong>
+            <small>(Spotlight)</small>
+               <span>
+                <span class="">
+                </span>
+               </span>
+         &nbsp;
+        <div>
+            <div class="collapse" id="collapse32109">
+                <div class="card card-body">                    
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Jilei Yang</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-32103"></span>
+    <script>
+        add_bookmark_click(
+            32103,
+             1,
+            'bookmark-event-32103',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-32103">
+            Tue 10:39 p.m. - 10:42 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 32103">
+            [S9] Simulated User Studies for Explanation Evaluation
+        </strong>
+            <small>(Spotlight)</small>
+               <span>
+                <span class="">
+                </span>
+               </span>
+         &nbsp;
+        <div>
+            <div class="collapse" id="collapse32103">
+                <div class="card card-body">          
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Valerie Chen, Gregory Plumb, Nicholay Topin, Ameet S Talwalkar</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-32092"></span>
+    <script>
+        add_bookmark_click(
+            32092,
+             1,
+            'bookmark-event-32092',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-32092">
+            Tue 10:42 p.m. - 10:45 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 32092">
+            [S10] Exploring XAI for the Arts: Explaining Latent Space in Generative Music
+        </strong>
+            <small>(Spotlight)</small>
+               <span>
+                <span class="">
+             </span>
+               </span>
+         &nbsp;
+        <div>
+            <div class="collapse" id="collapse32092">
+                <div class="card card-body">          
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Nick Bryan-Kinns, Berker Banar, Corey Ford, Simon Colton</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-32090"></span>
+    <script>
+        add_bookmark_click(
+            32090,
+             1,
+            'bookmark-event-32090',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-32090">
+            Tue 10:45 p.m. - 10:50 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 32090">
+            [S11] Interpreting Language Models Through Knowledge Graph Extraction
+        </strong>
+            <small>(Spotlight)</small>
+               <span>
+                <span class="">
+                </span>
+               </span>
+         &nbsp;
+        <div>
+            <div class="collapse" id="collapse32090">
+                <div class="card card-body">        
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Vinitra Swamy, Angelika Romanou, Martin Jaggi</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-32105"></span>
+    <script>
+        add_bookmark_click(
+            32105,
+             1,
+            'bookmark-event-32105',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-32105">
+            Tue 10:50 p.m. - 10:53 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 32105">
+            [S12] Efficient Decompositional Rule Extraction for Deep Neural Networks
+        </strong>
+            <small>(Spotlight)</small>
+               <span>
+                <span class="">
+                </span>
+               </span>
+         &nbsp;
+        <div>
+            <div class="collapse" id="collapse32105">
+                <div class="card card-body">                        
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Mateo Espinosa Zarlenga, Mateja Jamnik</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-32111"></span>
+    <script>
+        add_bookmark_click(
+            32111,
+             1,
+            'bookmark-event-32111',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-32111">
+            Tue 10:53 p.m. - 10:57 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 32111">
+            [S13] Revisiting Sanity Checks for Saliency Maps
+        </strong>
+            <small>(Spotlight)</small>
+               <span>
+                <span class="">
+                </span>
+               </span>
+         &nbsp;
+        <div>
+            <div class="collapse" id="collapse32111">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Gal O Yona</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-32088"></span>
+    <script>
+        add_bookmark_click(
+            32088,
+             1,
+            'bookmark-event-32088',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-32088">
+            Tue 10:57 p.m. - 11:01 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 32088">
+            [S14] Towards Better Visual Explanations for Deep ImageClassifiers
+        </strong>
+            <small>(Spotlight)</small>
+               <span>
+                <span class="">        
+                </span>
+               </span>
+         &nbsp;
+        <div>
+            <div class="collapse" id="collapse32088">
+                <div class="card card-body">   
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Agnieszka Grabska-Barwinska, Amal Rannen-Triki, Omar Rivasplata, András György</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-35849"></span>
+    <script>
+        add_bookmark_click(
+            35849,
+             1,
+            'bookmark-event-35849',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-35849">
+            Tue 11:00 p.m. - 11:06 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Talks, prerecorded &amp; live-streamed | id: 35849">
+            Closing Remarks
+        </strong>
+            <small>(Closing)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse35849">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Biagio La Rosa</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-38517"></span>
+    <script>
+        add_bookmark_click(
+            38517,
+             1,
+            'bookmark-event-38517',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+        )
+    </script>
+        <div class="workshopevent-date" id="bookmark-here-38517">
+            Tue 11:06 p.m. - 11:30 p.m.
+        </div>
+    </td>
+    <td>
+        <strong title="Link-only, appears in the schedule, but no SlidesLive engineer | id: 38517">
+            Poster Session
+        </strong>
+            <small></small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse38517">
+                <div class="card card-body">           
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i></i>
+    </td>
+</tr>
 
-
+</tbody></table>
 <hr>
 
 # **Invited Speakers**

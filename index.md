@@ -5,8 +5,6 @@ layout: default
 <!-- <center>
 <h1 style="font-weight: bold;">About</h1>
 </center> -->
-
-
 # **About**
 Recently, artificial intelligence has seen the explosion of deep learning models, which are able to reach super-human performance in several tasks, finding application in many domains. These performance improvements, however, come at a cost: DL models are uninterpretable black boxes, where one feeds an input and obtains an output without understanding the motivations behind that prediction or decision. 
 

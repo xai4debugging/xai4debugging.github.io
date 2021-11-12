@@ -5,6 +5,8 @@ layout: default
 <!-- <center>
 <h1 style="font-weight: bold;">About</h1>
 </center> -->
+
+
 # **About**
 Recently, artificial intelligence has seen the explosion of deep learning models, which are able to reach super-human performance in several tasks, finding application in many domains. These performance improvements, however, come at a cost: DL models are uninterpretable black boxes, where one feeds an input and obtains an output without understanding the motivations behind that prediction or decision. 
 
@@ -30,75 +32,8 @@ The topics include <u>but are not limited to</u>:
 - Position papers on the topic of the workshop.
 <hr>
 
-# **Call for Papers**
 
-The call for papers includes three different tracks: *regular*, *mentorship*, and *a glimpse of the future* track.  The first one is the traditional track for presenting novel contributions. The second one is directed to young researchers and aims to pair a mentor and a mentee with the goal of polishing early-submissions. The last one is intended for first-year PhD students and MSc students working on the topic, giving them the possibility to introduce themselves and their research proposal to the research community.
-
-
-## **Tracks**
-
-### **Regular track:**
-Submissions to this track have to be novel contributions covering any topic listed above. We don't accept work that has been already published, that is concurrently submitted to other venues before the submission deadline, or that is presented at the main NeurIPS conference, including as part of an invited talk. We solicit submission of full papers, position papers, and papers describing open problems on one of the topics listed above. Papers must be submitted through the . <u>Papers submitted to the workshop can be submitted to future conferences (e.g. ICML, ICLR) if the acceptance notification comes after the workshop date (December, 14)</u>. 
-
-We only allow **dual submissions of papers submitted to the main NeurIPS 2021 conference** with the following constraints: papers must be withdrawn from this workshop before October 1st if they will be accepted at the main conference; papers must include the declaration of dual submission BEFORE the introduction section; authors must append  the reviews received from NeurIPS conference (printed from the OpenReview system) to the main corpus and a brief letter summarizing the improvements made after the review process.
-
-*We encourage the authors to link a **anonymized** repository containing the code to replicate the results inside the corpus of the paper.* While this is not a mandatory requirement, it will be positively taken in account during the reviewing process and the selection of the contributed talks. You can use <a href="https://anonymous.4open.science/">Anonymous Github</a> or you can upload your repository on a service that allows anonymity (e.g. GDrive allows anonymous links).
-
-Submissions must follow the NeurIPS anonymized paper format (see <a href="https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles"> NeurIPS style files</a>), and they are limited to a maximum of 9 pages, excluding references. Shorter papers are welcome. They will undergo double-blind peer review. Authors may append to the paper supplementary material, such as appendices, proofs, and derivations; Like submissions, supplementary material must be anonymized. Looking at supplementary material is at the discretion of the reviewers.
-
-**At the end of your paper submission, please indicate whether you would like an extended version of the submission to be considered for publication in a journal special issue**. According to the feedback from authors, we will further decide whether to publish selected high-quality papers in proceedings or a journal special issue. Reviewers will nominate papers among them with exemplary scientific rigor for publication. <u>We will ask authors again after the acceptance of the paper whether you would like to proceed to a journal special issue. Note that in this case there can be restrictions regarding dual submissions with future conference, depending on the policy of the chosen journal.</u>
-
-Accepted works will be presented as contributed talks or as posters in a poster session or listed on the workshop site as accepted contributions, depending on schedule constraints.
-It is mandatory that at least one of the authors will attend the workshop and present its work during the contributed talks and the poster session. 
-We are planning to include an additional virtual channel, like Slack, where each accepted paper will have a dedicated section for attendance and authors to discuss. We strongly encourage authors to be available on their section before, during, and shortly after the workshop.
-
-
-**Important Dates for Regular Track:**
-
-~~Submission system opens: 11:59 PM CEST, Aug 15, 2021 ~~
-
-~~Submission deadline: 11:59 PM CEST, Sep 20, 2021  **(Extended deadline!)**~~
-
-~~Notification date:  11:59 PM CEST, Oct 17, 2021~~
-
-~~SlidesLive upload for speaker videos: 11:59 PM CEST, ~~Oct 25~~ Oct 28, 2021~~
-
-
-**<span style="color:red"> NEW: Available the LaTeX template style for the camera-ready version <a href="files/neurips_2021.sty">HERE</a>. Simply download the file and replace the "neurips_2021.sty" file in your folder. Use the option "final" when importing the neurIPS package using the following command:<br>\usepackage[final]{neurips_2021}<br>in your LaTeX .tex file.</span>**
-
-Camera-ready deadline : 11:59 PM CEST, Nov 5, 2021
-
-Poster deadline : 11:59 PM CEST, Dec 1, 2021
-
-Workshop date: Dec 14, 2021
-
-
-
-Note that for papers that include a link to the code, the deadline for the camera-ready version is extended to 11:59 PM CEST, Nov 15, 2021
-
-
-### **Mentorship track:**
-The mentorship track pairs authors with experienced researchers who have committed to providing meaningful feedback to help polish papers for general submission. This program helps authors to get support and fast feedback from the research community, by facilitating a private dialogue between the mentee and mentor. 
-The papers of this track have to be non-anonymous, template-free.
-Note that the goal of this track is to receive fast feedback about the structure of the paper and to polish it. It is not intended for deep review. None of the papers submitted to this track will be presented or included in the workshop schedule.
-
-**Important Dates for Mentorship track:**
-
-~~Submission deadline: 11:59 PM CEST, Sep 30, 2021 <a href="https://cmt3.research.microsoft.com/XAI4Debugging2021/Track/2/Submission/Create">LINK</a>~~
-
-### **A glimpse of the future track:**
-This special track aims at discovering and highlighting the most promising students in the field. The students will have the possibility to present their research plan to the community, describing the problems that they plan to address and possible research directions. Submissions for this track must include a research plan (max. 2 pages) and a cover letter from the current or future supervisor. The plan should briefly highlight the problem that the researcher will try to attack, the current methodologies and the expected outcome of its research agenda. This track is intended for first-year PhD students or prospective PhD students. The accepted students will present their plans during the workshop in a dedicated talk. We plan to accept at least 2 students as oral presentations.
-
-**Important Dates for A glimpse of the future track:** 
-
-~~Submission deadline: 11:59 PM CEST, Sep 20, 2021 <a href="https://cmt3.research.microsoft.com/XAI4Debugging2021/Track/1/Submission/Create">LINK</a>~~
-
-~~Notification Date:  11:59 PM CEST, Oct 10, 2021~~
-
-~~SlidesLive upload for speaker videos: 11:59 PM CEST, Oct 28, 2021~~
-<hr>
-
-# **Schedule Draft**
+# **Schedule**
  Central European Time (CET)
 <table class="table table-condensed" style="border-style:none !important">
             <colgroup><col style="width:80px">
@@ -2473,6 +2408,97 @@ Peter Stone (Sony AI) and Daniele Nardi (Sapienza University of Rome)
 - Yunfeng Zhang, IBM 
 
 <hr>
+
+# FAQ
+
+- **I am a registered account for NeurIPS 2021 Conference. Can I see the videos of presentations before and after the workshop date?**<br>
+ *A: Yes. You will find the links to the videos in the NeurIPS virtual site associated with our workshop <a href="https://neurips.cc/virtual/2021/workshop/21856">here</a>. Videos will be made available as soon as possible. They should be visible at least one week before the date of the workshop.*
+
+
+- **I am not a registered account for NeurIPS 2021 Conference. Where can I find the links to the papers, code, and videos of presentations?**<br>
+ *A: Links to papers and code will be released in the last week of November, approximately two weeks before the workshop date. You will find them in the <a href="##list-of-accepted-papers">accepted paper list</a> section. Videos will be eventually made public after the workshop, only when and whether both authors and NeurIPS agree with this procedure.*
+
+- **Q: How can I ask questions to authors?** <br>
+  *A: You can ask questions live using the Rocket chat and our volunteers will try to extract them during the live Q/A or you can join our <a href="https://join.slack.com/t/xai4debugging-4ua7968/shared_invite/zt-vkfupieb-FFU7CeMmIgvmJJE5tMo8sA">Slack Channel</a> and you will find a channel for each presentation. In this way, you can ask your questions both before and after the workshop.*
+- **Q: Is the paper archived in any proceedings?** <br>
+  *A: No, there will be no official proceedings. We will only host the papers on our website.*
+- **Q: Can I attend the workshop without being registered for NeurIPS 2021 conference?** <br>
+*A: The workshop is hosted by NeurIPS. Therefore, you have to be registered for the conference of NeurIPS 2021 in order to attend the live sessions and the poster session of our workshop.*
+- **Q: Is there any additional cost associated with the acceptance of my paper?** <br>
+*A: There are no additional costs associated with our workshop.*
+
+
+
+
+
+# **Call for Papers**
+
+The call for papers includes three different tracks: *regular*, *mentorship*, and *a glimpse of the future* track.  The first one is the traditional track for presenting novel contributions. The second one is directed to young researchers and aims to pair a mentor and a mentee with the goal of polishing early-submissions. The last one is intended for first-year PhD students and MSc students working on the topic, giving them the possibility to introduce themselves and their research proposal to the research community.
+
+
+## **Tracks**
+
+### **Regular track:**
+Submissions to this track have to be novel contributions covering any topic listed above. We don't accept work that has been already published, that is concurrently submitted to other venues before the submission deadline, or that is presented at the main NeurIPS conference, including as part of an invited talk. We solicit submission of full papers, position papers, and papers describing open problems on one of the topics listed above. Papers must be submitted through the . <u>Papers submitted to the workshop can be submitted to future conferences (e.g. ICML, ICLR) if the acceptance notification comes after the workshop date (December, 14)</u>. 
+
+We only allow **dual submissions of papers submitted to the main NeurIPS 2021 conference** with the following constraints: papers must be withdrawn from this workshop before October 1st if they will be accepted at the main conference; papers must include the declaration of dual submission BEFORE the introduction section; authors must append  the reviews received from NeurIPS conference (printed from the OpenReview system) to the main corpus and a brief letter summarizing the improvements made after the review process.
+
+*We encourage the authors to link a **anonymized** repository containing the code to replicate the results inside the corpus of the paper.* While this is not a mandatory requirement, it will be positively taken in account during the reviewing process and the selection of the contributed talks. You can use <a href="https://anonymous.4open.science/">Anonymous Github</a> or you can upload your repository on a service that allows anonymity (e.g. GDrive allows anonymous links).
+
+Submissions must follow the NeurIPS anonymized paper format (see <a href="https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles"> NeurIPS style files</a>), and they are limited to a maximum of 9 pages, excluding references. Shorter papers are welcome. They will undergo double-blind peer review. Authors may append to the paper supplementary material, such as appendices, proofs, and derivations; Like submissions, supplementary material must be anonymized. Looking at supplementary material is at the discretion of the reviewers.
+
+At the end of your paper submission, please indicate whether you would like an extended version of the submission to be considered for publication in a journal special issue. According to the feedback from authors, we will further decide whether to publish selected high-quality papers in proceedings or a journal special issue. Reviewers will nominate papers among them with exemplary scientific rigor for publication. <u>We will ask authors again after the acceptance of the paper whether you would like to proceed to a journal special issue. Note that in this case there can be restrictions regarding dual submissions with future conference, depending on the policy of the chosen journal.</u>
+
+Accepted works will be presented as contributed talks or as posters in a poster session or listed on the workshop site as accepted contributions, depending on schedule constraints.
+It is mandatory that at least one of the authors will attend the workshop and present its work during the contributed talks and the poster session. 
+We are planning to include an additional virtual channel, like Slack, where each accepted paper will have a dedicated section for attendance and authors to discuss. We strongly encourage authors to be available on their section before, during, and shortly after the workshop.
+
+
+**Important Dates for Regular Track:**
+
+~~Submission system opens: 11:59 PM CEST, Aug 15, 2021~~
+
+~~Submission deadline: 11:59 PM CEST, Sep 20, 2021  **(Extended deadline!)**~~
+
+~~Notification date:  11:59 PM CEST, Oct 17, 2021~~
+
+~~SlidesLive upload for speaker videos: 11:59 PM CEST, ~~Oct 25~~ Oct 28, 2021~~
+
+
+**<span style="color:red"> NEW: Available the LaTeX template style for the camera-ready version <a href="files/neurips_2021.sty">HERE</a>. Simply download the file and replace the "neurips_2021.sty" file in your folder. Use the option "final" when importing the neurIPS package using the following command:<br>\usepackage[final]{neurips_2021}<br>in your LaTeX .tex file.</span>**
+
+Camera-ready deadline : 11:59 PM CEST, Nov 5, 2021
+
+Poster deadline : 11:59 PM CEST, Dec 1, 2021
+
+Workshop date: Dec 14, 2021
+
+
+
+Note that for papers that include a link to the code, the deadline for the camera-ready version is extended to 11:59 PM CEST, Nov 15, 2021
+
+
+### **Mentorship track:**
+The mentorship track pairs authors with experienced researchers who have committed to providing meaningful feedback to help polish papers for general submission. This program helps authors to get support and fast feedback from the research community, by facilitating a private dialogue between the mentee and mentor. 
+The papers of this track have to be non-anonymous, template-free.
+Note that the goal of this track is to receive fast feedback about the structure of the paper and to polish it. It is not intended for deep review. None of the papers submitted to this track will be presented or included in the workshop schedule.
+
+**Important Dates for Mentorship track:**
+
+~~Submission deadline: 11:59 PM CEST, Sep 30, 2021 <a href="https://cmt3.research.microsoft.com/XAI4Debugging2021/Track/2/Submission/Create">LINK</a>~~
+
+### **A glimpse of the future track:**
+This special track aims at discovering and highlighting the most promising students in the field. The students will have the possibility to present their research plan to the community, describing the problems that they plan to address and possible research directions. Submissions for this track must include a research plan (max. 2 pages) and a cover letter from the current or future supervisor. The plan should briefly highlight the problem that the researcher will try to attack, the current methodologies and the expected outcome of its research agenda. This track is intended for first-year PhD students or prospective PhD students. The accepted students will present their plans during the workshop in a dedicated talk. We plan to accept at least 2 students as oral presentations.
+
+**Important Dates for A glimpse of the future track:** 
+
+~~Submission deadline: 11:59 PM CEST, Sep 20, 2021 <a href="https://cmt3.research.microsoft.com/XAI4Debugging2021/Track/1/Submission/Create">LINK</a>~~
+
+~~Notification Date:  11:59 PM CEST, Oct 10, 2021~~
+
+~~SlidesLive upload for speaker videos: 11:59 PM CEST, Oct 28, 2021~~
+<hr>
+
 
 # **Contacts**
 If you have any questions feel free to join our <a href="https://join.slack.com/t/xai4debugging-4ua7968/shared_invite/zt-vkfupieb-FFU7CeMmIgvmJJE5tMo8sA">slack channel</a> or contact us at any of the following email addresses:

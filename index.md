@@ -2351,7 +2351,7 @@ XC: Exploring Quantitative Use Cases for Explanations in 3D Object Detection<br>
 ## **Advisory Board**
 Peter Stone (Sony AI) and Daniele Nardi (Sapienza University of Rome)
 
-## Outstanding Reviewers 
+## *Outstanding Reviewers**
 - <a href="https://sandareka.github.io/">Sandareka Wickramanayake</a> from the National University of Singapore 
 - <a href="https://www.ml.informatik.tu-darmstadt.de/people/wstammer/"> Wolfgang Stammer</a> from the Machine Learning Lab, TU Darmstadt,
 - <a href="http://seojinb.com">Seo-Jin Bang</a> from Carnegie Mellon University

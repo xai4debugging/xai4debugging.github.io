@@ -2456,26 +2456,26 @@ We are planning to include an additional virtual channel, like Slack, where each
 
 **Important Dates for Regular Track:**
 
-~~Submission system opens: 11:59 PM CEST, Aug 15, 2021~~
+~~Submission system opens: 11:59 PM CET, Aug 15, 2021~~
 
-~~Submission deadline: 11:59 PM CEST, Sep 20, 2021  **(Extended deadline!)**~~
+~~Submission deadline: 11:59 PM CET, Sep 20, 2021  **(Extended deadline!)**~~
 
-~~Notification date:  11:59 PM CEST, Oct 17, 2021~~
+~~Notification date:  11:59 PM CET, Oct 17, 2021~~
 
-~~SlidesLive upload for speaker videos: 11:59 PM CEST, ~~Oct 25~~ Oct 28, 2021~~
+~~SlidesLive upload for speaker videos: 11:59 PM CET, ~~Oct 25~~ Oct 28, 2021~~
 
 
 **<span style="color:red"> NEW: Available the LaTeX template style for the camera-ready version <a href="files/neurips_2021.sty">HERE</a>. Simply download the file and replace the "neurips_2021.sty" file in your folder. Use the option "final" when importing the neurIPS package using the following command:<br>\usepackage[final]{neurips_2021}<br>in your LaTeX .tex file.</span>**
 
-Camera-ready deadline : 11:59 PM CEST, Nov 5, 2021
+Camera-ready deadline : 11:59 PM CET, Nov 5, 2021
 
-Poster deadline : 11:59 PM CEST, Dec 1, 2021
+Poster deadline : 11:59 PM CET, Dec 1, 2021
 
 Workshop date: Dec 14, 2021
 
 
 
-Note that for papers that include a link to the code, the deadline for the camera-ready version is extended to 11:59 PM CEST, Nov 15, 2021
+Note that for papers that include a link to the code, the deadline for the camera-ready version is extended to 11:59 PM CET, Nov 15, 2021
 
 
 ### **Mentorship track:**
@@ -2485,18 +2485,18 @@ Note that the goal of this track is to receive fast feedback about the structure
 
 **Important Dates for Mentorship track:**
 
-~~Submission deadline: 11:59 PM CEST, Sep 30, 2021 <a href="https://cmt3.research.microsoft.com/XAI4Debugging2021/Track/2/Submission/Create">LINK</a>~~
+~~Submission deadline: 11:59 PM CET, Sep 30, 2021 <a href="https://cmt3.research.microsoft.com/XAI4Debugging2021/Track/2/Submission/Create">LINK</a>~~
 
 ### **A glimpse of the future track:**
 This special track aims at discovering and highlighting the most promising students in the field. The students will have the possibility to present their research plan to the community, describing the problems that they plan to address and possible research directions. Submissions for this track must include a research plan (max. 2 pages) and a cover letter from the current or future supervisor. The plan should briefly highlight the problem that the researcher will try to attack, the current methodologies and the expected outcome of its research agenda. This track is intended for first-year PhD students or prospective PhD students. The accepted students will present their plans during the workshop in a dedicated talk. We plan to accept at least 2 students as oral presentations.
 
 **Important Dates for A glimpse of the future track:** 
 
-~~Submission deadline: 11:59 PM CEST, Sep 20, 2021 <a href="https://cmt3.research.microsoft.com/XAI4Debugging2021/Track/1/Submission/Create">LINK</a>~~
+~~Submission deadline: 11:59 PM CET, Sep 20, 2021 <a href="https://cmt3.research.microsoft.com/XAI4Debugging2021/Track/1/Submission/Create">LINK</a>~~
 
-~~Notification Date:  11:59 PM CEST, Oct 10, 2021~~
+~~Notification Date:  11:59 PM CET, Oct 10, 2021~~
 
-~~SlidesLive upload for speaker videos: 11:59 PM CEST, Oct 28, 2021~~
+~~SlidesLive upload for speaker videos: 11:59 PM CET, Oct 28, 2021~~
 <hr>
 
 

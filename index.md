@@ -2218,45 +2218,48 @@ The topics include <u>but are not limited to</u>:
 
 ## **List of Accepted Papers**
 
-A Robust Unsupervised Ensemble of Feature-Based Explanations using Restricted Boltzmann Machines <br> *Vadim Borisov, Johannes Meier, Johan Van den Heuvel, Hamed Jalali, and Gjergji. Kasneci*  <!-- <br>[Paper][Code] -->
+A Robust Unsupervised Ensemble of Feature-Based Explanations using Restricted Boltzmann Machines <br> *Vadim Borisov, Johannes Meier, Johan Van den Heuvel, Hamed Jalali, and Gjergji. Kasneci* <br>[<a href="files/papers/a_robust_unsupervised_ensemble.pdf">Paper</a>][<a href="https://github.com/JohanvandenHeuvel/AggregationOfLocalExplanations">Code</a>] 
 
-Are All Neurons Created Equal? Interpreting and Controlling BERT through Individual Neurons<br> *Omer Antverg and Yonatan Belinkov* <!-- <br>[Paper][Code] -->
+Are All Neurons Created Equal? Interpreting and Controlling BERT through Individual Neurons<br> *Omer Antverg and Yonatan Belinkov* <br>[<a href="files/papers/are_all_neurons_created_equal_.pdf">Paper</a>]<!-- [Code] -->
 
-Do Feature Attribution Methods Correctly Attribute Features? <br>*Yilun Zhou, Serena Booth, Marco Tulio Ribeiro, and Julie Shah*  <!-- <br>[Paper][Code] -->
+Do Feature Attribution Methods Correctly Attribute Features? <br>*Yilun Zhou, Serena Booth, Marco Tulio Ribeiro, and Julie Shah*
+<br>[<a href="files/papers/do_feature_attribution_methods.pdf">Paper</a>]<!-- [Code] --> 
 
-Debugging the Internals of Convolutional Networks <br> *Bilal Alsallakh, Narine Kokhlikyan, Vivek Miglani, Shubham Muttepawar, Edward Wang, Sara Zhang, David Adkins, and Orion Reblitz-Richardson*  <!-- <br>[Paper][Code] --> 
+Debugging the Internals of Convolutional Networks <br> *Bilal Alsallakh, Narine Kokhlikyan, Vivek Miglani, Shubham Muttepawar, Edward Wang, Sara Zhang, David Adkins, and Orion Reblitz-Richardson*  <br>[<a href="files/papers/debugging_the_internals_of_con.pdf">Paper</a>]<!-- [Code] -->
 
-DeDUCE: Generating Counterfactual Explanations At Scale<br> *Benedikt Höltgen, Lisa Schut, Jan M. Brauner, and Yarin Gal*  <!-- <br>[Paper][Code] -->
+DeDUCE: Generating Counterfactual Explanations At Scale<br> *Benedikt Höltgen, Lisa Schut, Jan M. Brauner, and Yarin Gal*   <br>[<a href="files/papers/deduce_generating_counterfactu.pdf">Paper</a>][<a href="https://github.com/benedikthoeltgen/DeDUCE">Code</a>]
 
-Defuse: Training More Robust Models through Creation and Correction of Novel Model Errors <br>*Dylan Z Slack, Nathalie Rauschmayr, and Krishnaram Kenthapadi*  <!-- <br>[Paper][Code] -->
+Defuse: Training More Robust Models through Creation and Correction of Novel Model Errors <br>*Dylan Z Slack, Nathalie Rauschmayr, and Krishnaram Kenthapadi*  <br>[<a href="files/papers/defuse_training_more_robust_mo.pdf">Paper</a>]<!-- [Code] --> 
 
-Efficient Decompositional Rule Extraction for Deep Neural Networks<br> *Mateo Espinosa Zarlenga, Zohreh Shams, and Mateja Jamnik*  <!-- <br>[Paper][Code] -->
+Efficient Decompositional Rule Extraction for Deep Neural Networks<br> *Mateo Espinosa Zarlenga, Zohreh Shams, and Mateja Jamnik*  <br>[<a href="efficient_decompositional_rule.pdf">Paper</a>][<a href="https://github.com/mateoespinosa/remix">Code</a>] 
 
-Explaining Information Flow Inside Vision Transformers Using Markov Chain<br> *Yuan Tingyi, Xuhong Li, Haoyi Xiong, Hui Cao, and Dejing Dou*  <!-- <br>[Paper][Code] -->
+Explaining Information Flow Inside Vision Transformers Using Markov Chain<br> *Yuan Tingyi, Xuhong Li, Haoyi Xiong, Hui Cao, and Dejing Dou*  <br>[<a href="files/papers/explaining_information_flow_in.pdf">Paper</a>][<a href="https://github.com/PaddlePaddle/InterpretDL">Code</a>]
 
-Exploring XAI for the Arts: Explaining Latent Space in Generative Music <br>*Nick Bryan-Kinns, Berker Banar, Corey Ford, Courtney N Reed, Yixiao Zhang, Simon Colton, and Jack Armitage*  <!-- <br>[Paper][Code] -->
+Exploring XAI for the Arts: Explaining Latent Space in Generative Music <br>*Nick Bryan-Kinns, Berker Banar, Corey Ford, Courtney N Reed, Yixiao Zhang, Simon Colton, and Jack Armitage*  <br>[<a href="files/papers/exploring_xai_for_the_arts_exp.pdf">Paper</a>][<a href="https://github.com/bbanar2/Exploring_XAI_in_GenMus_via_LSR">Code</a>]
 
-Fast TreeSHAP: Accelerating SHAP Value Computation for Trees <br>*Jilei Yang*  <!-- <br>[Paper][Code] -->
+Fast TreeSHAP: Accelerating SHAP Value Computation for Trees <br>*Jilei Yang*  <br>[<a href="files/papers/fast_treeshap_accelerating_sha.pdf">Paper</a>]<!-- [Code] -->
 
-Interpretability in Gated Modular Neural Networks. <br>*Yamuna Krishnamurthy and Chris Watkins*  <!-- <br>[Paper][Code] -->
+Interpretability in Gated Modular Neural Networks. <br>*Yamuna Krishnamurthy and Chris Watkins*  <br>[<a href="files/papers/interpretability_in_gated_modu.pdf">Paper</a>][<a href="https://github.com/neuripsxai2021/neurips_xai_workshop_2021">Code</a>]
 
-Interpreting BERT architecture predictions for peptide presentation by MHC class I proteins<br> *Hans-Christof Gasser, Georges Bedran, Bo Ren, David Goodlett, Javier Alfaro, and Ajitha Rajan*  <!-- <br>[Paper][Code] -->
+Interpreting BERT architecture predictions for peptide presentation by MHC class I proteins<br> *Hans-Christof Gasser, Georges Bedran, Bo Ren, David Goodlett, Javier Alfaro, and Ajitha Rajan*  <br>[<a href="files/papers/interpreting_bert_architecture.pdf">Paper</a>][<a href="https://github.com/hcgasser/ImmunoBERT">Code</a>]
 
-Interpreting Language Models Through Knowledge Graph Extraction <br>*Vinitra Swamy, Angelika Romanou, and Martin Jaggi*  <!-- <br>[Paper][Code] -->
+Interpreting Language Models Through Knowledge Graph Extraction <br>*Vinitra Swamy, Angelika Romanou, and Martin Jaggi* 
+<br>[<a href="files/papers/interpreting_language_models_t.pdf">Paper</a>][<a href="https://github.com/epfml/interpret-lm-knowledge">Code</a>]
 
-Not too close and not too far: enforcing monotonicity requires penalizing the right points <br> *Joao Monteiro, Mohamed Osama Ahmed, Hossein Hajimirsadeghi, and Greg Mori*  <!-- <br>[Paper][Code] -->
+Not too close and not too far: enforcing monotonicity requires penalizing the right points <br> *Joao Monteiro, Mohamed Osama Ahmed, Hossein Hajimirsadeghi, and Greg Mori*  <br>[<a href="files/papers/not_too_close_and_not_too_far_.pdf">Paper</a>]<!-- [Code] -->
 
-Reinforcement Explanation Learning<br> *Siddhant Agarwal, Owais Iqbal, Sree Aditya Buridi, Madda Manjusha, and Abir Das*  <!-- <br>[Paper][Code] -->
+Reinforcement Explanation Learning<br> *Siddhant Agarwal, Owais Iqbal, Sree Aditya Buridi, Madda Manjusha, and Abir Das*  <br>[<a href="files/papers/reinforcement_explanation_lear.pdf">Paper</a>]<!-- [Code] -->
 
-Revisiting Sanity Checks for Saliency Maps.<br> *Gal Yona*  <!-- <br>[Paper][Code] -->
+Revisiting Sanity Checks for Saliency Maps.<br> *Gal Yona*  <br>[<a href="files/papers/revisiting_sanity_checks_for_s.pdf">Paper</a>]<!-- [Code] -->
 
-Simulated User Studies for Explanation Evaluation. <br>*Valerie Chen, Gregory Plumb, Nicholay Topin, and Ameet Talwalkar* <!-- <br>[Paper][Code] -->
+Simulated User Studies for Explanation Evaluation. <br>*Valerie Chen, Gregory Plumb, Nicholay Topin, and Ameet Talwalkar* <br>[<a href="files/papers/simulated_user_studies_for_exp.pdf">Paper</a>]<!-- [Code] -->
 
-Towards Better Visual Explanations for Deep ImageClassifiers. <br> *Agnieszka Grabska-Barwinska, Amal Rannen-Triki, Omar Rivasplata, and András György*  <!-- <br>[Paper][Code] -->
+Towards Better Visual Explanations for Deep ImageClassifiers. <br> *Agnieszka Grabska-Barwinska, Amal Rannen-Triki, Omar Rivasplata, and András György*  <br>[<a href="files/papers/DeepMaps_visual_explanations.pdf">Paper</a>]<!-- [Code] -->
 
-Visualizing the Sim2Real Gap in Robot Ego-Pose Estimation <br> *Théo Jaunet, Guillaume Bono, Romain Vuillemot, and Christian Wolf* <!-- <br>[Paper][Code] -->
+Visualizing the Sim2Real Gap in Robot Ego-Pose Estimation <br> *Théo Jaunet, Guillaume Bono, Romain Vuillemot, and Christian Wolf* 
+ <br> [<a href="files/papers/visualizing_the_sim2real_gap_i.pdf">Paper</a>][<a href="https://github.com/Theo-Jaunet/sim2realViz">Code</a>]
 
-XC: Exploring Quantitative Use Cases for Explanations in 3D Object Detection<br> *Sunsheng Gu, Vahdat Abdelzad, and Krzysztof Czarnecki* <!-- <br>[Paper][Code] -->
+XC: Exploring Quantitative Use Cases for Explanations in 3D Object Detection<br> *Sunsheng Gu, Vahdat Abdelzad, and Krzysztof Czarnecki* <br>[<a href="files/papers/xc_exploring_quantitative_use_.pdf">Paper</a>][<a href="https://github.com/SunshengGu/XC_eval_pcdet">Code</a>]
 # **Organization**
 ## **Organizers**
 

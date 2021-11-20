@@ -2231,7 +2231,7 @@ DeDUCE: Generating Counterfactual Explanations At Scale<br> *Benedikt Höltgen, 
 
 Defuse: Training More Robust Models through Creation and Correction of Novel Model Errors <br>*Dylan Z Slack, Nathalie Rauschmayr, and Krishnaram Kenthapadi*  <br>[<a href="files/papers/defuse_training_more_robust_mo.pdf">Paper</a>]<!-- [Code] --> 
 
-Efficient Decompositional Rule Extraction for Deep Neural Networks<br> *Mateo Espinosa Zarlenga, Zohreh Shams, and Mateja Jamnik*  <br>[<a href="efficient_decompositional_rule.pdf">Paper</a>][<a href="https://github.com/mateoespinosa/remix">Code</a>] 
+Efficient Decompositional Rule Extraction for Deep Neural Networks<br> *Mateo Espinosa Zarlenga, Zohreh Shams, and Mateja Jamnik*  <br>[<a href="files/papers/efficient_decompositional_rule.pdf">Paper</a>][<a href="https://github.com/mateoespinosa/remix">Code</a>] 
 
 Explaining Information Flow Inside Vision Transformers Using Markov Chain<br> *Yuan Tingyi, Xuhong Li, Haoyi Xiong, Hui Cao, and Dejing Dou*  <br>[<a href="files/papers/explaining_information_flow_in.pdf">Paper</a>][<a href="https://github.com/PaddlePaddle/InterpretDL">Code</a>]
 

@@ -2239,7 +2239,7 @@ Exploring XAI for the Arts: Explaining Latent Space in Generative Music <br>*Nic
 
 Fast TreeSHAP: Accelerating SHAP Value Computation for Trees <br>*Jilei Yang*  <br>[<a href="files/papers/fast_treeshap_accelerating_sha.pdf">Paper</a>]<!-- [Code] -->
 
-Interpretability in Gated Modular Neural Networks. <br>*Yamuna Krishnamurthy and Chris Watkins*  <br>[<a href="files/papers/interpretability_in_gated_modu.pdf">Paper</a>][<a href="https://github.com/neuripsxai2021/neurips_xai_workshop_2021">Code</a>]
+Interpretability in Gated Modular Neural Networks. <br>*Yamuna Krishnamurthy and Chris Watkins*  <br>[<a href="files/papers/interpretability_in_gated_modu.pdf">Paper</a>][<a href="https://github.com/yamsgithub/modular_deep_learning/">Code</a>]
 
 Interpreting BERT architecture predictions for peptide presentation by MHC class I proteins<br> *Hans-Christof Gasser, Georges Bedran, Bo Ren, David Goodlett, Javier Alfaro, and Ajitha Rajan*  <br>[<a href="files/papers/interpreting_bert_architecture.pdf">Paper</a>][<a href="https://github.com/hcgasser/ImmunoBERT">Code</a>]
 

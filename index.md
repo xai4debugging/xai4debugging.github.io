@@ -2470,15 +2470,15 @@ We are planning to include an additional virtual channel, like Slack, where each
 
 **<span style="color:red"> NEW: Available the LaTeX template style for the camera-ready version <a href="files/neurips_2021.sty">HERE</a>. Simply download the file and replace the "neurips_2021.sty" file in your folder. Use the option "final" when importing the neurIPS package using the following command:<br>\usepackage[final]{neurips_2021}<br>in your LaTeX .tex file.</span>**
 
-Camera-ready deadline : 11:59 PM CET, Nov 5, 2021
+~~Camera-ready deadline : 11:59 PM CET, Nov 5, 2021~~
 
-Poster deadline : 11:59 PM CET, Dec 1, 2021
+~~Poster deadline : 11:59 PM CET, Dec 1, 2021~~
 
-Workshop date: Dec 14, 2021
+~~Workshop date: Dec 14, 2021~~
 
 
 
-Note that for papers that include a link to the code, the deadline for the camera-ready version is extended to 11:59 PM CET, Nov 15, 2021
+~~Note that for papers that include a link to the code, the deadline for the camera-ready version is extended to 11:59 PM CET, Nov 15, 2021~~
 
 
 ### **Mentorship track:**

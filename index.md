@@ -2163,7 +2163,7 @@ The topics include <u>but are not limited to</u>:
     <div class="speaker" style="margin:0;">
           <div style="padding-top: 30px;
   padding-bottom: 30px;">
-        <a href="https://www.mit.edu/~jda/">Jacob Andreas</a><br>
+        <strong><a href="https://www.mit.edu/~jda/">Jacob Andreas</a></strong><br>
         <em> Natural language descriptions of deep features</em>      
         </div>
     </div>

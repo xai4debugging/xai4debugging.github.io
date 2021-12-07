@@ -2147,7 +2147,7 @@ The topics include <u>but are not limited to</u>:
     <div class="speaker" style="margin:0;">
           <div style="padding-top: 30px;
   padding-bottom: 30px;">
-         <strong>Julius Adebayo</strong>
+         <strong><a href="https://juliusadebayo.com/about">Julius Adebayo</a></strong>
          <br>
          <em>Detecting model reliance on spurious signals is challenging for post hoc explanation approaches</em>
         </div>
@@ -2163,7 +2163,7 @@ The topics include <u>but are not limited to</u>:
     <div class="speaker" style="margin:0;">
           <div style="padding-top: 30px;
   padding-bottom: 30px;">
-        Speaker: Jacob Andreas<br>
+        <a href="https://www.mit.edu/~jda/">Jacob Andreas</a><br>
         <em> Natural language descriptions of deep features</em>      
         </div>
     </div>
@@ -2176,7 +2176,7 @@ The topics include <u>but are not limited to</u>:
         <div class="speaker" style="margin:0;">
       <div style="padding-top: 30px;
   padding-bottom: 30px;">
-        Andreas Holzinger<br>
+        <a href="https://www.aholzinger.at/"><strong>Andreas Holzinger</strong></a><br>
         <em>Explainability and robustness: Towards trustworthy AI</em>     
       </div>
     </div>
@@ -2190,7 +2190,7 @@ The topics include <u>but are not limited to</u>:
         <div class="speaker" style="margin:0;">
       <div style="padding-top: 30px;
   padding-bottom: 30px;">
-        Himabindu Lakkaraju<br>
+        <strong><a href="https://himalakkaraju.github.io/">Himabindu Lakkaraju</a></strong><br>
         <em>Towards Reliable and Robust Model Explanations</em>      
       </div>
     </div>
@@ -2204,7 +2204,7 @@ The topics include <u>but are not limited to</u>:
         <div class="speaker">
       <div style="padding-top: 30px;
   padding-bottom: 30px;">
-       Shixia Liu<br>
+       <strong><a href="http://shixialiu.com/">Shixia Liu</a></strong><br>
         <em>Visual Analytics for Explainable Machine Learning</em>      
       </div>
     </div>

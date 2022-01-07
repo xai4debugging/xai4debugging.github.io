@@ -2248,7 +2248,7 @@ Interpreting Language Models Through Knowledge Graph Extraction <br>*Vinitra Swa
 
 Not too close and not too far: enforcing monotonicity requires penalizing the right points <br> *Joao Monteiro, Mohamed Osama Ahmed, Hossein Hajimirsadeghi, and Greg Mori*  <br>[<a href="files/papers/not_too_close_and_not_too_far_.pdf">Paper</a>]<!-- [Code] -->
 
-Reinforcement Explanation Learning<br> *Siddhant Agarwal, Owais Iqbal, Sree Aditya Buridi, Madda Manjusha, and Abir Das*  <br>[<a href="files/papers/reinforcement_explanation_lear.pdf">Paper</a>]<!-- [Code] -->
+Reinforcement Explanation Learning<br> *Siddhant Agarwal, Owais Iqbal, Sree Aditya Buridi, Madda Manjusha, and Abir Das*  <br>[<a href="files/papers/reinforcement_explanation_lear.pdf">Paper</a>] [<a href="https://github.com/CVIR/RExL">Code</a>]
 
 Revisiting Sanity Checks for Saliency Maps.<br> *Gal Yona*  <br>[<a href="files/papers/revisiting_sanity_checks_for_s.pdf">Paper</a>]<!-- [Code] -->
 
@@ -2428,6 +2428,8 @@ Peter Stone (Sony AI) and Daniele Nardi (Sapienza University of Rome)
 - **Q: Can I attend the workshop without being registered for NeurIPS 2021 conference?** <br>
 *A: The workshop is hosted by NeurIPS. Therefore, you have to be registered for the conference of NeurIPS 2021 in order to attend the live sessions and the poster session of our workshop.*
 - **Q: Is there any additional cost associated with the acceptance of my paper?** <br>
+*A: There are no additional costs associated with our workshop.*
+- **Q: I didn't see the field "Journal Publication" in the openreview site for our paper. Does it mean that our paper didn't get the invitation:sweat_smile:, or they are just hidden from authors by openreview?** <br>
 *A: There are no additional costs associated with our workshop.*
 
 

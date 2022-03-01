@@ -1011,7 +1011,7 @@ The topics include <u>but are not limited to</u>:
         </div>
     </td>
     <td style="width:25%">
-            <i>Dylan Slack, Krishnaram Kenthapadi</i>
+            <i>Dylan Slack, Nathalie Rauschmayr, Krishnaram Kenthapadi</i>
     </td>
 </tr>
 <tr style="border-style:none !important;position: relative;height:100%">
